@@ -38,7 +38,7 @@ with st.container():
             """
             I'll do your any Data Science, Machine Learning and Deep Learning(CV/NLP) projects
             from Data Cleaning, Modeling, Training, Evaluating, Inferencing to Application Design & Development.
-            """
+           """
         )
 # ---- WHAT I DO ----
 with st.container():
