@@ -48,7 +48,7 @@ with st.container():
         st.header("What I do...")
         st.write("##")
         st.write("""
-    >Data Cleaning, Analysis & Visualization with several data sources and data formats(images, text, graphs e.t.c)
+    >Data Cleaning, Analysis & Visualization with several data sources and data formats(images, text, json e.t.c)
         Database & Integration: SQLite, SQLAlchemy, BigQuery SQL, redis noSQL
      
         Tools & libraries: Python, numpy, pandas, seaborn, Plotly
