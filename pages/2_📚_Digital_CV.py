@@ -26,7 +26,7 @@ SOCIAL_MEDIA = {
     "Dataquest": "https://app.dataquest.io/profile/soumensarker.ice.iu.bd",
 }
 PROJECTS = {
-"🏆 Develop and Deploy a Personal Site with Chatbot Integration": "https://soumenksarker-personal-website-1--homepage-aqokf8.streamlitapp.com/"
+"🏆 Develop and Deploy a Personal Site with Chatbot Integration": "https://soumenksarker-personal-website-1--homepage-aqokf8.streamlitapp.com/",
 "🏆 Real time Sales/finacial interactive Dashboard  ": "",
 "🏆 Income and Expense Tracker - Web app with NoSQL database": "",
 "🏆 House Price Prediction from research to production environment":"https://fathomless-falls-91100.herokuapp.com/docs",
