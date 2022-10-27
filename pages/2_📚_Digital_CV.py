@@ -26,14 +26,13 @@ SOCIAL_MEDIA = {
     "Dataquest": "https://app.dataquest.io/profile/soumensarker.ice.iu.bd",
 }
 PROJECTS = {
-"🏆 Develop and Deploy a Personal Site with Chatbot Integration": "https://soumenksarker-personal-website-1--homepage-aqokf8.streamlitapp.com/",
-"🏆 Real time Sales/finacial interactive Dashboard  ": "",
-"🏆 Income and Expense Tracker - Web app with NoSQL database": "",
+"🏆 Bank Marketing Analysis Live Dashboard": "https://soumenksarker-live-bank-data-dashboard-app-2z8bky.streamlitapp.com/",
 "🏆 House Price Prediction from research to production environment":"https://fathomless-falls-91100.herokuapp.com/docs",
 "🏆 NLP literaure overview, A Sentiment Classification model by comparing naive Bayes, DNN, RNN, and LSTM classification models. Automatic Text Summarization with Transformer Architecture.": "https://github.com/soumenksarker/NLP-Specialization",
 "🏆 Built and Deployed an NLP application that reveals named entities, classifies sentiment, and does text summarization using spacy, textblob, genism, streamlit and deploy to heroku.": "https://github.com/soumenksarker/text-summarizer-and-others",
-"🏆Image Classification/Browser based model to classify Rock/Paper/Scissors Browser-based model, node.js, training with and without transfer learning, evaluating, alerting on browser!":"https://github.com/soumenksarker/TF-in-Deployment",
-"🏆Built and deployed a CV application that detects faces, smiles, and eyes, do enhance, filters to add effect": "https://face-detection-opencv-strmlt.herokuapp.com/",
+"🏆 Image Classification/Browser based model to classify Rock/Paper/Scissors Browser-based model, node.js, training with and without transfer learning, evaluating, alerting on browser!":"https://github.com/soumenksarker/TF-in-Deployment",
+"🏆 Built and deployed a CV application that detects faces, smiles, and eyes, do enhance, filters to add effect": "https://face-detection-opencv-strmlt.herokuapp.com/",
+"🏆 Develop and Deploy a Personal Site with Chatbot Integration": "https://soumenksarker-personal-website-1--homepage-aqokf8.streamlitapp.com/",
 
 }
 
