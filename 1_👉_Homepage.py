@@ -50,7 +50,8 @@ with st.container():
         st.write("""
     >Data Cleaning, Analysis & Visualization with several data sources and data formats(images, text, graphs e.t.c)
       Database & Integration: SQLite, SQLAlchemy, BigQuery SQL, redis noSQL
-      Tools & libraries: numpy, pandas, seaborn
+     
+      Tools & libraries: Python, numpy, pandas, seaborn, Plotly
     >Apply probability and statistical techniques to derive useful insights from your data
       Tools & libraries: scipy, statsmodels, R
     >Creating pipeline(Processing, Modeling, Training, Evaluation) with state of the art of Machine Learning and Deep Learning techniques.
