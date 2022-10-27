@@ -56,10 +56,10 @@ with st.container():
         Tools & libraries: scipy, statsmodels, R
     >Creating pipeline(Processing, Modeling, Training, Evaluation) with state of the art of Machine Learning and Deep Learning techniques.
         Tools & libraries: scikit-learn, Tensorflow, keras, PyTorch
-    > Packagging, Unit testing, API integration, Deployment
-        Tools & libraries: streamlit, tox, FastApi
+    > Packagging, Unit testing, API integration, Application Design & Devloopment, Deployment
+        Tools & libraries: poetry, tox, pytest, test PyPI, FastApi, HTML, CSS, jQuery, streamlit
       
-        Deployment: Uvicorn, Heroku, streamlit, Tensorflow Serving, GCP, AWS e.t.c""")
+        Cloud: Uvicorn, Heroku, streamlit, Tensorflow Serving, GCP, AWS e.t.c""")
         
     
     with right_column:
