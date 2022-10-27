@@ -45,7 +45,7 @@ with st.container():
     st.write("---")
     left_column, right_column = st.columns([2.5,1])
     with left_column:
-        st.header("What I do...")
+        st.header("What I will do...")
         st.write("##")
         st.write("""
     >Data Cleaning, Analysis & Visualization with several data sources and data formats(images, text, json e.t.c)
@@ -54,7 +54,7 @@ with st.container():
         Tools & libraries: Python, numpy, pandas, seaborn, Plotly
     >Apply probability and statistical techniques to derive useful insights from your data
         Tools & libraries: scipy, statsmodels, R
-    >Creating pipeline(Processing, Modeling, Training, Evaluation) with state of the art of Machine Learning and Deep Learning techniques.
+    >Creating Pipeline(Processing, Modeling, Training, Evaluation) with state of the art of Machine Learning and Deep Learning techniques.
         Tools & libraries: scikit-learn, Tensorflow, keras, PyTorch
     > Packagging, Unit testing, API integration, Application Design & Devloopment, Deployment
         Tools & libraries: poetry, tox, pytest, test PyPI, FastApi, HTML, CSS, jQuery, streamlit
