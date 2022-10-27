@@ -53,13 +53,13 @@ with st.container():
      
         Tools & libraries: Python, numpy, pandas, seaborn, Plotly
     >Apply probability and statistical techniques to derive useful insights from your data
-      Tools & libraries: scipy, statsmodels, R
+        Tools & libraries: scipy, statsmodels, R
     >Creating pipeline(Processing, Modeling, Training, Evaluation) with state of the art of Machine Learning and Deep Learning techniques.
-      Tools & libraries: scikit-learn, Tensorflow, keras, PyTorch
+        Tools & libraries: scikit-learn, Tensorflow, keras, PyTorch
     > Packagging, Unit testing, API integration, Deployment
-      Tools & libraries: streamlit, tox, FastApi
+        Tools & libraries: streamlit, tox, FastApi
       
-      Deployment: Uvicorn, Heroku, streamlit, Tensorflow Serving, GCP, AWS e.t.c""")
+        Deployment: Uvicorn, Heroku, streamlit, Tensorflow Serving, GCP, AWS e.t.c""")
         
     
     with right_column:
