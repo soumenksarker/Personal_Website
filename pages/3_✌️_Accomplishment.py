@@ -99,7 +99,7 @@ if selected=="Live Chat":
             create_usertable()
             result=login_user(username, password)
             if result:
-                st.success("Welcome, Logged In as {}.. bored! feel free to conversate..".format(username))
+                st.success("Welcome, Logged In as {} .. feelng bored! Conversate ..".format(username))
                 @st.experimental_singleton
                 def get_models():
                     # it may be necessary for other frameworks to cache the model
