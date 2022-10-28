@@ -127,8 +127,8 @@ if selected=="Live Chat":
                     st_message(**chat) 
                     # unpacking
                 st.text_input("Talk to the bot", key="input_text", on_change=generate_answer)
-           else:
-               st.warning("Incorrect Username/Password")
+          else:
+              st.warning("Incorrect Username/Password")
       else:
         st.session_state.history = []
 
