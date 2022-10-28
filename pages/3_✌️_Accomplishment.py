@@ -119,7 +119,6 @@ if selected=="Live Chat":
                     message_bot = tokenizer.decode(
                         result[0], skip_special_tokens=True
                     )  # .replace("<s>", "").replace("</s>", "")
-
                     st.session_state.history.append({"message": user_message, "is_user": True})
                     st.session_state.history.append({"message": message_bot, "is_user": False})
                 from copyreg import clear_extension_cache
@@ -127,10 +126,10 @@ if selected=="Live Chat":
                     st_message(**chat) 
                     # unpacking
                 st.text_input("Talk to the bot", key="input_text", on_change=generate_answer)
-           else:
-              st.warning("Incorrect Username/Password")
-      else:
-        st.session_state.history = []
+            else:
+               st.warning("Incorrect Username/Password")
+        else:
+           st.session_state.history = []
 
     elif choice == "SignUp":
         st.subheader("Register Here!")
