@@ -139,4 +139,4 @@ if selected=="Live Chat":
             create_usertable()
             add_userdata(new_user, new_password)
             st.success("You have successfully created a valid Account")
-            st.info("Please Login...")
+            st.info("Login to continue ...")
