@@ -107,7 +107,7 @@ if selected=="Live Chat":
                     model = BlenderbotForConditionalGeneration.from_pretrained(model_name)
                     return tokenizer, model
                 if "history" not in st.session_state:
-                st.session_state.history = []
+                    st.session_state.history = []
                 st.title("Hello Chatbot")
                 def generate_answer():
                     tokenizer, model = get_models()
