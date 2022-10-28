@@ -59,15 +59,11 @@ if selected=="Certifications & Projects":
         for cer, link in Certificates.items():
             st.write(f"[{cer}]({link})")
 
-
 if selected=="Live Chat":
-    import pandas as pd
-    import sqlite3
+    import streamlit as st
     from streamlit_chat import message as st_message
-    from transformers import TFAutoModelForCausalLM, AutoTokenizer
-    import tensorflow as tf
-
-
+    from transformers import BlenderbotTokenizer
+    from transformers import BlenderbotForConditionalGeneration
     conn = sqlite3.connect('data.db')
     c=conn.cursor()
 
@@ -105,34 +101,33 @@ if selected=="Live Chat":
                 st.success("Welcome, Logged In as {}.. bored! feel free to conversate..".format(username))
                 @st.experimental_singleton
                 def get_models():
-                    chat_bots = {
-                    'DialoGPT': [AutoTokenizer.from_pretrained("microsoft/DialoGPT-small"), TFAutoModelForCausalLM.from_pretrained("microsoft/DialoGPT-small")],
-                    } 
-                    key = 'DialoGPT'
-                    tokenizer, model = chat_bots[key]
-                    return tokenizer, model
+                # it may be necessary for other frameworks to cache the model
+                # seems pytorch keeps an internal state of the conversation
+                model_name = "facebook/blenderbot-400M-distill"
+                tokenizer = BlenderbotTokenizer.from_pretrained(model_name)
+                model = BlenderbotForConditionalGeneration.from_pretrained(model_name)
+                return tokenizer, model
                 if "history" not in st.session_state:
-                    st.session_state.history = []
-                st.title("Hello Chatbot") 
+                st.session_state.history = []
+                st.title("Hello Chatbot")
                 def generate_answer():
-                    tokenizer, model = get_models()
-                    inputs=st.session_state.input_text
-                    new_user_input_ids = tokenizer.encode(inputs+ tokenizer.eos_token, return_tensors='tf')
-                    chat_history_ids = model.generate(new_user_input_ids , max_length=1000, pad_token_id=tokenizer.eos_token_id)
-                    message_bot= 'bot' + ": {}".format(tokenizer.decode(chat_history_ids[:, new_user_input_ids.shape[-1]:][0], skip_special_tokens=True))
-                    st.session_state.history.append({"message": inputs, "is_user": True})
-                    st.session_state.history.append({"message": message_bot, "is_user": False})
-                #print(st.help(st.text_input))
-                from copyreg import clear_extension_cache
-                for chat in st.session_state.history:
-                    st_message(**chat) 
-                     # unpacking
-                st.text_input("Talk to the bot", key="input_text", on_change=generate_answer)
+                tokenizer, model = get_models()
+                user_message = st.session_state.input_text
+                inputs = tokenizer(st.session_state.input_text, return_tensors="pt")
+                result = model.generate(**inputs)
+                message_bot = tokenizer.decode(
+                    result[0], skip_special_tokens=True
+                )  # .replace("<s>", "").replace("</s>", "")
+
+                st.session_state.history.append({"message": user_message, "is_user": True})
+                st.session_state.history.append({"message": message_bot, "is_user": False})
+               from copyreg import clear_extension_cache
+               for chat in st.session_state.history:
+                   st_message(**chat) 
+                    # unpacking
+               st.text_input("Talk to the bot", key="input_text", on_change=generate_answer)
             else:
                 st.warning("Incorrect Username/Password")
-        else:
-            st.session_state.history = []
-            
 
     elif choice == "SignUp":
         st.subheader("Register Here!")
