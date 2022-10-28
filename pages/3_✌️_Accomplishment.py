@@ -129,7 +129,7 @@ if selected=="Live Chat":
                 st.text_input("Talk to the bot", key="input_text", on_change=generate_answer)
            else:
                st.warning("Incorrect Username/Password")
-       else:
+      else:
         st.session_state.history = []
 
     elif choice == "SignUp":
