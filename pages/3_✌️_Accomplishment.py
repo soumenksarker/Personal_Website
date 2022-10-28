@@ -63,24 +63,22 @@ if selected=="Certifications & Projects":
         st.write("---")
         for cer, link in Certificates.items():
             st.write(f"[{cer}]({link})")
-
+conn = sqlite3.connect('data.db')
+c=conn.cursor()
+def create_usertable():
+    c.execute('CREATE TABLE IF NOT EXISTS usertable(username TEXT,password TEXT)')
+def add_userdata(username, password):
+    c.execute('INSERT INTO usertable(username, password) VALUES (?,?)',(username, password))
+    conn.commit()
+def login_user(username, password):
+    c.execute('SELECT * FROM usertable WHERE username=? AND password=?', (username, password))
+    data = c.fetchall()
+    return data
+def view_all_users():
+    c.execute('SELECT * FROM usertable')
+    data = c.fetchall()
+    return data
 if selected=="Live Chat":
-    conn = sqlite3.connect('data.db')
-    c=conn.cursor()
-
-    def create_usertable():
-        c.execute('CREATE TABLE IF NOT EXISTS usertable(username TEXT,password TEXT)')
-    def add_userdata(username, password):
-        c.execute('INSERT INTO usertable(username, password) VALUES (?,?)',(username, password))
-        conn.commit()
-    def login_user(username, password):
-        c.execute('SELECT * FROM usertable WHERE username=? AND password=?', (username, password))
-        data = c.fetchall()
-        return data
-    def view_all_users():
-        c.execute('SELECT * FROM usertable')
-        data = c.fetchall()
-        return data
     st.subheader("SignUp to get access ...")
     choice = option_menu(menu_title=None,
     options= ["Login","SignUp"], 
