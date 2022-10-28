@@ -1,5 +1,8 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
+from streamlit_chat import message as st_message
+from transformers import BlenderbotTokenizer
+from transformers import BlenderbotForConditionalGeneration
 selected = option_menu(menu_title=None,
 options= ["Certifications & Projects","Live Chat"], 
 icons=['bookmarks fill', "chat-dots"],
@@ -60,10 +63,6 @@ if selected=="Certifications & Projects":
             st.write(f"[{cer}]({link})")
 
 if selected=="Live Chat":
-    import streamlit as st
-    from streamlit_chat import message as st_message
-    from transformers import BlenderbotTokenizer
-    from transformers import BlenderbotForConditionalGeneration
     conn = sqlite3.connect('data.db')
     c=conn.cursor()
 
