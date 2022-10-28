@@ -1,5 +1,6 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
+import sqlite3
 from streamlit_chat import message as st_message
 from transformers import BlenderbotTokenizer
 from transformers import BlenderbotForConditionalGeneration
@@ -120,7 +121,7 @@ if selected=="Live Chat":
 
                     st.session_state.history.append({"message": user_message, "is_user": True})
                     st.session_state.history.append({"message": message_bot, "is_user": False})
-               #from copyreg import clear_extension_cache
+                from copyreg import clear_extension_cache
                 for chat in st.session_state.history:
                     st_message(**chat) 
                     # unpacking
