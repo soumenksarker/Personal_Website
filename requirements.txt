@@ -9,4 +9,4 @@ Keras-Preprocessing==1.1.2
 streamlit-chat==0.0.2.1
 streamlit-option-menu==0.3.2
 tensorflow==2.10.0
-pytorch
+torch
