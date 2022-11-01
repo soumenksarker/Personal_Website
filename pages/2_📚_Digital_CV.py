@@ -26,9 +26,10 @@ SOCIAL_MEDIA = {
     "Dataquest": "https://app.dataquest.io/profile/soumensarker.ice.iu.bd",
 }
 PROJECTS = {
-"🏆 Captioning image":"https://soumenksarker-imgcaptioning-app-izf09f.streamlitapp.com/",
+"🏆 Image captioning":"https://soumenksarker-imgcaptioning-app-izf09f.streamlitapp.com/",
 "🏆 NLP literaure overview, A Sentiment Classification model by comparing naive Bayes, DNN, RNN, and LSTM classification models. Automatic Text Summarization with Transformer Architecture.": "https://github.com/soumenksarker/NLP-Specialization",
 "🏆 Built and Deployed an NLP application that reveals named entities, classifies sentiment, and does text summarization using spacy, textblob, genism and T5": "https://soumenksarker-nlp-app-z47yvp.streamlitapp.com/",
+"🏆 Emotion detection!":"https://soumenksarker-emotion-recognition-app-770rmy.streamlitapp.com/",
 "🏆 Image Classification/Browser based model to classify Rock/Paper/Scissors Browser-based model, node.js, training with and without transfer learning, evaluating, alerting on browser!":"https://github.com/soumenksarker/TF-in-Deployment",
 "🏆 Built and deployed a CV application that detects faces, smiles, and eyes, do enhance, filters to add effect": "https://soumenksarker-face-detection-streamlit-app-bdy2rx.streamlitapp.com/",
 "🏆 Develop and Deploy a Personal Site with Chatbot Integration": "https://soumenksarker-personal-website-1--homepage-aqokf8.streamlitapp.com/",
