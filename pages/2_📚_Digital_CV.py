@@ -32,7 +32,7 @@ PROJECTS = {
 "🏆 Built and Deployed an NLP application that reveals named entities, classifies sentiment, and does text summarization using spacy, textblob, genism and T5": "https://soumenksarker-nlp-app-z47yvp.streamlitapp.com/",
 "🏆 Emotion detection!":"https://soumenksarker-emotion-recognition-app-770rmy.streamlitapp.com/",
 "🏆 Image Classification/Browser based model to classify Rock/Paper/Scissors Browser-based model, node.js, training with and without transfer learning, evaluating, alerting on browser!":"https://github.com/soumenksarker/TF-in-Deployment",
-"🏆 Built and deployed a CV application that detects objects, faces, smiles, and eyes, do enhance, filters to add effect": "https://huggingface.co/spaces/Soumen/transform_image/",
+"🏆 Built and deployed a CV application that detects objects, faces, smiles, and eyes, do enhance, filters to add effect.": "https://huggingface.co/spaces/Soumen/transform_image/",
 "🏆 Develop and Deploy a Personal Site with Chatbot Integration": "https://soumen-sarker-personal-site.streamlitapp.com/",
 "🏆 Bank Marketing Analysis Live Dashboard": "https://soumenksarker-live-bank-data-dashboard-app-2z8bky.streamlitapp.com/",
 "🏆 House Price Prediction from research to production environment":"https://fathomless-falls-91100.herokuapp.com/docs",
