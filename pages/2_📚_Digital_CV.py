@@ -26,14 +26,14 @@ SOCIAL_MEDIA = {
     "Dataquest": "https://app.dataquest.io/profile/soumensarker.ice.iu.bd",
 }
 PROJECTS = {
-"🏆 Image captioning using API calling ":"https://huggingface.co/spaces/Soumen/image_to_text",
+"🏆 Built and Deployed an NLP application that reveals named entities, classifies sentiment, and do ocr base text summarization using spacy, textblob, genism and T5 and tesseract": "https://huggingface.co/spaces/Soumen/Text-Summarization-and-NLP-tasks/",
+"🏆 Image captioning using huggingface API and streamlit ":"https://huggingface.co/spaces/Soumen/image_to_text",
 "🏆 Built and deployed an Image captioning streamlit application":"https://soumenksarker-imgcaptioning-app-izf09f.streamlitapp.com/",
-"🏆 NLP literaure overview, A Sentiment Classification model by comparing naive Bayes, DNN, RNN, and LSTM classification models. Automatic Text Summarization with Transformer Architecture.": "https://github.com/soumenksarker/NLP-Specialization",
-"🏆 Built and Deployed an NLP application that reveals named entities, classifies sentiment, and does text summarization using spacy, textblob, genism and T5": "https://soumenksarker-nlp-app-z47yvp.streamlitapp.com/",
 "🏆 Emotion detection!":"https://soumenksarker-emotion-recognition-app-770rmy.streamlitapp.com/",
-"🏆 Image Classification/Browser based model to classify Rock/Paper/Scissors Browser-based model, node.js, training with and without transfer learning, evaluating, alerting on browser!":"https://github.com/soumenksarker/TF-in-Deployment",
-"🏆 Built and deployed a CV application that detects objects, faces, smiles, and eyes, do enhance, filters to add effect.": "https://huggingface.co/spaces/Soumen/transform_image/",
+"🏆 Built and deployed a CV application that detects and classify objects, faces, smiles, and eyes, do enhance, filters to add effect.": "https://huggingface.co/spaces/Soumen/transform_image/",
 "🏆 Develop and Deploy a Personal Site with Chatbot Integration": "https://soumen-sarker-personal-site.streamlitapp.com/",
+"🏆 NLP literaure overview, A Sentiment Classification model by comparing naive Bayes, DNN, RNN, and LSTM classification models. Automatic Text Summarization with Transformer Architecture.": "https://github.com/soumenksarker/NLP-Specialization",  
+"🏆 Image Classification/Browser based model to classify Rock/Paper/Scissors Browser-based model, node.js, training with and without transfer learning, evaluating, alerting on browser!":"https://github.com/soumenksarker/TF-in-Deployment",
 "🏆 Bank Marketing Analysis Live Dashboard": "https://soumenksarker-live-bank-data-dashboard-app-2z8bky.streamlitapp.com/",
 "🏆 House Price Prediction from research to production environment":"https://fathomless-falls-91100.herokuapp.com/docs",
 
