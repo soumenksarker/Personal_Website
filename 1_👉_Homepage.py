@@ -33,7 +33,7 @@ img_contact_form = Image.open("images/yt_contact_form.png")
 # ---- HEADER SECTION ----
 with st.container():
     st.subheader("Hi, I am Soumen :wave:")
-    st.title("A Data Science Practitioner From Bangladesh")
+    st.title("A Data Science, ML, DL Practitioner From Bangladesh")
     st.write("I am passionate about finding ways to use Python, SQL to solve Data Science problems in several domains."
             """
             I'll do your any Data Science, Machine Learning and Deep Learning(CV/NLP) projects
@@ -55,11 +55,11 @@ with st.container():
     >Apply probability and statistical techniques to derive useful insights from your data
         Tools & libraries: scipy, statsmodels, R
     >Creating Pipeline(Processing, Modeling, Training, Evaluation) with state of the art of Machine Learning and Deep Learning techniques.
-        Tools & libraries: scikit-learn, Tensorflow, keras, PyTorch
+        Tools & libraries: scikit-learn, Tensorflow, keras, torch, transformers
     > Packagging, Unit testing, API integration, Application Design & Devloopment, Deployment
         Tools & libraries: poetry, tox, pytest, test PyPI, FastApi, HTML, CSS, jQuery, streamlit
       
-        Cloud: Uvicorn, Heroku, streamlit, Tensorflow Serving, GCP, AWS e.t.c""")
+        Cloud: huggingface, Uvicorn, Heroku, streamlit, Tensorflow Serving, GCP, AWS e.t.c""")
         
     
     with right_column:
