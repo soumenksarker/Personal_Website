@@ -26,7 +26,7 @@ SOCIAL_MEDIA = {
     "Dataquest": "https://app.dataquest.io/profile/soumensarker.ice.iu.bd",
 }
 PROJECTS = {
-"🏆 Built and Deployed an NLP application that reveals named entities, classifies sentiment, and do ocr base text summarization using spacy, textblob, genism and T5 and tesseract": "https://huggingface.co/spaces/Soumen/Text-Summarization-and-NLP-tasks/",
+"🏆 Built and Deployed an NLP application that reveals named entities, classifies sentiment, and do OCR base text summarization using spacy, textblob, genism, T5 and tesseract": "https://huggingface.co/spaces/Soumen/Text-Summarization-and-NLP-tasks/",
 "🏆 Image captioning using huggingface API and streamlit ":"https://huggingface.co/spaces/Soumen/image_to_text",
 "🏆 Built and deployed an Image captioning streamlit application":"https://soumenksarker-imgcaptioning-app-izf09f.streamlitapp.com/",
 "🏆 Emotion detection!":"https://soumenksarker-emotion-recognition-app-770rmy.streamlitapp.com/",
