@@ -36,8 +36,8 @@ with st.container():
     st.title("A Data Science, ML, DL Practitioner From Bangladesh")
     st.write("I am passionate about finding ways to use Python, SQL to solve Data Science problems in several domains."
             """
-            I'll do your any Data Science, Machine Learning and Deep Learning(CV/NLP) projects
-            from Data Cleaning, Modeling, Training, Evaluating, Inferencing to Application Design & Development.
+            I'll do your Data Science, Machine Learning and Deep Learning projects regarding Computer Vision, Natural Language Processing, Medical data/image analysis and bussiness/financial 
+            data from Cleaning, Analysis, Modeling, Training, Evaluating, Predicting/Inferencing to Application Design & Development.
            """
         )
 # ---- WHAT I DO ----
