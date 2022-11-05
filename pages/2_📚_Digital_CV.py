@@ -80,7 +80,7 @@ st.write('\n')
 st.subheader("Experience & Qulifications")
 st.write(
     """
-- ✔️ Years of expereince extracting actionable insights from data
+- ✔️ Years of expereince in extracting actionable insights from Data
 - ✔️ Strong hands on experience and knowledge in Data Science App Developement(User_Athentication, Database Integration, KPI design, Real Time Interactive Dashboard)
 - ✔️ Good understanding of Machine Learning/Deep Learning Projects(CV, NLP, Medical Data/Image Analysis, Bussiness/Finance Data Projects, Time Series Processing) Architecture and Creating Pipeline(Data Processing, Model Building, Training, Evaluation),
       Packaging, Restfull API Integration, Web base App Development and Deploy for Predict and Inferencing on PaaS Cloud(streamlit, render, heroku e.t.c)/ecosystem like tensorflow serving.
