@@ -23,7 +23,7 @@ SOCIAL_MEDIA = {
     "LinkedIn": "https://www.linkedin.com/in/soumen-sarker-61302216b/",
     "GitHub": "https://github.com/soumenksarker",
     "Kaggle": "https://www.kaggle.com/soumenksarker",
-    "Dataquest": "https://app.dataquest.io/profile/soumensarker.ice.iu.bd",
+    "Codeforces": "https://codeforces.com/profile/Soumen_Sarkar",
 }
 PROJECTS = {
 "🏆 Built and deployed an NLP application that reveals named entities, classifies sentiment, and do OCR base Bangla and English text summarization using spacy, textblob, genism, T5 and tesseract.": "https://huggingface.co/spaces/Soumen/Text-Summarization-and-NLP-tasks",
