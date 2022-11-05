@@ -34,7 +34,7 @@ img_contact_form = Image.open("images/yt_contact_form.png")
 with st.container():
     st.subheader("Hi, I am Soumen :wave:")
     st.title("A Data Science, ML, DL Practitioner From Bangladesh")
-    st.write("I am passionate about finding ways using Python, SQL, R to do Data Science/ML/DL projects."
+    st.write("I am passionate about finding ways to do Data Science/ML/DL projects using Python, SQL and R ."
             """
             I'll do your Data Science, Machine Learning and Deep Learning projects regarding Computer Vision, Natural Language Processing, Bussiness/Financial Data Application 
             and Medical Data/Image Analysis from Cleaning, Analysis, Modeling, Training, Evaluating, Predicting/Inferencing to Application Design & Development.
