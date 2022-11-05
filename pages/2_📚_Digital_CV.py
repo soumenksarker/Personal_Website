@@ -31,7 +31,7 @@ PROJECTS = {
 "🏆 Built and deployed an Image Captioning streamlit application.":"https://soumenksarker-imgcaptioning-app-izf09f.streamlitapp.com/",
 "🏆 Emotion detection application":"https://soumenksarker-emotion-recognition-app-770rmy.streamlitapp.com/",
 "🏆 Built and deployed a CV application that detects and classify objects, faces, smiles, and eyes, do enhance and filters to add effect.": "https://huggingface.co/spaces/Soumen/transform_image/",
-"🏆 Develop and deploy a Personal Websdite with Chatbot Integration": "https://soumen-sarker-personal-site.streamlitapp.com/",
+"🏆 Develop and deploy a Personal Website with Chatbot Integration": "https://soumen-sarker-personal-website.streamlit.app/",
 "🏆 NLP literaure overview, A Sentiment Classification model by comparing naive Bayes, DNN, RNN, and LSTM classification models. Automatic Text Summarization with Transformer Architecture.": "https://github.com/soumenksarker/NLP-Specialization",  
 "🏆 Image Classification/Browser based model to classify Rock/Paper/Scissors Browser-based model, node.js, training with and without transfer learning, evaluating, alerting on browser!":"https://github.com/soumenksarker/TF-in-Deployment",
 "🏆 Bank Marketing Analysis Live Dashboard": "https://soumenksarker-live-bank-data-dashboard-app-2z8bky.streamlitapp.com/",
