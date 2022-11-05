@@ -26,11 +26,11 @@ SOCIAL_MEDIA = {
     "Dataquest": "https://app.dataquest.io/profile/soumensarker.ice.iu.bd",
 }
 PROJECTS = {
-"🏆 Built and deployed an NLP application that reveals named entities, classifies sentiment, and do OCR base Bangla and English text summarization using spacy, textblob, genism, T5 and tesseract.": "https://huggingface.co/spaces/Soumen/Text-Summarization-and-NLP-tasks/",
+"🏆 Built and deployed an NLP application that reveals named entities, classifies sentiment, and do OCR base Bangla and English text summarization using spacy, textblob, genism, T5 and tesseract.": "https://huggingface.co/spaces/Soumen/Text-Summarization-and-NLP-tasks",
 "🏆 Image Captioning using huggingface API and streamlit.":"https://huggingface.co/spaces/Soumen/image_to_text",
 "🏆 Built and deployed an Image Captioning streamlit application.":"https://soumenksarker-imgcaptioning-app-izf09f.streamlitapp.com/",
 "🏆 Emotion detection application":"https://soumenksarker-emotion-recognition-app-770rmy.streamlitapp.com/",
-"🏆 Built and deployed a CV application that detects and classify objects, faces, smiles, and eyes, do enhance and filters to add effect.": "https://huggingface.co/spaces/Soumen/transform_image/",
+"🏆 Built and deployed a CV application that detects and classify objects, faces, smiles, and eyes, do enhance and filters to add effect.": "https://huggingface.co/spaces/Soumen/transform_image",
 "🏆 Develop and deploy a Personal Website with Chatbot Integration": "https://soumen-sarker-personal-website.streamlit.app/",
 "🏆 NLP literaure overview, A Sentiment Classification model by comparing naive Bayes, DNN, RNN, and LSTM classification models. Automatic Text Summarization with Transformer Architecture.": "https://github.com/soumenksarker/NLP-Specialization",  
 "🏆 Image Classification/Browser based model to classify Rock/Paper/Scissors Browser-based model, node.js, training with and without transfer learning, evaluating, alerting on browser!":"https://github.com/soumenksarker/TF-in-Deployment",
