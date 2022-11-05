@@ -16,7 +16,7 @@ PAGE_TITLE = "Digital CV | SOUMEN SARKER"
 PAGE_ICON = ":wave:"
 NAME = "SOUMEN SARKER"
 DESCRIPTION = """
-Data Sceince enthuesiest, ML/DL practitioner.
+Data Sceince Enthuesiest, ML/DL Practitioner.
 """
 EMAIL = "sks0007771@gmail.com"
 SOCIAL_MEDIA = {
