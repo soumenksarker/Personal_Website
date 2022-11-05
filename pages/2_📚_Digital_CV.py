@@ -81,7 +81,7 @@ st.subheader("Experience & Qulifications")
 st.write(
     """
 - ✔️ Years of expereince extracting actionable insights from data
-- ✔️ Strong hands on experience and knowledge in Data Science app developement(user_athentication, database integration, real time Dashboard)
+- ✔️ Strong hands on experience and knowledge in Data Science App Developement(User_Athentication, Database Integration, KPI design, Real Time Interactive Dashboard)
 - ✔️ Good understanding of Machine Learning/Deep Learning Projects(CV, NLP, Medical Data/Image Analysis, Bussiness/Finance Data Projects, Time Series Processing) architecture and creating pipeline(data processing, model building, training, evaluation)
       Packaging, Restfull API integration, Web base App Development and Deploy for Predict and Inferencing on PaasS Cloud(streamlit, render, heroku e.t.c)/ecosystem like tensorflow serving.
 - ✔️ Excellent team-player and displaying strong sense of initiative on tasks
