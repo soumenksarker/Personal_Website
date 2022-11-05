@@ -45,7 +45,7 @@ with st.container():
     st.write("---")
     left_column, right_column = st.columns([2.5,1])
     with left_column:
-        st.header("What I will do...")
+        st.header("What I will do ...")
         st.write("##")
         st.write("""
     >Data Cleaning, Analysis & Visualization with several data sources and data formats(images, text, json e.t.c)
