@@ -35,7 +35,7 @@ PROJECTS = {
 "🏆 NLP literaure overview, A Sentiment Classification model by comparing naive Bayes, DNN, RNN, and LSTM classification models. Automatic Text Summarization with Transformer Architecture.": "https://github.com/soumenksarker/NLP-Specialization",  
 "🏆 Image Classification/Browser based model to classify Rock/Paper/Scissors Browser-based model, node.js, training with and without transfer learning, evaluating, alerting on browser!":"https://github.com/soumenksarker/TF-in-Deployment",
 "🏆 Bank Marketing Analysis Live Dashboard": "https://soumenksarker-live-bank-data-dashboard-app-2z8bky.streamlitapp.com/",
-"🏆 House Price Prediction from research to production environment":"https://fathomless-falls-91100.herokuapp.com/docs",
+"🏆 House Price Prediction from research to production environment using Sci-kit-learn api(OOP, Inheritence, Transformer, Pipeline), Pydantic, pytest, tox, Fast API and Uvicorn ":"https://fathomless-falls-91100.herokuapp.com/docs",
 
 }
 
