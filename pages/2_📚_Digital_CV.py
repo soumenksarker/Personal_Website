@@ -27,8 +27,8 @@ SOCIAL_MEDIA = {
 }
 PROJECTS = {
 "🏆 Built and deployed an NLP application that reveals named entities, classifies sentiment, and do OCR base Bangla(extractive) and English(abstructive) text summarization using spacy, textblob, genism, T5 and tesseract.": "https://huggingface.co/spaces/Soumen/Text-Summarization-and-NLP-tasks",
-"🏆 Image Captioning using huggingface API and streamlit.":"https://huggingface.co/spaces/Soumen/image_to_text",
 "🏆 Built and deployed an Image Captioning streamlit application.":"https://soumenksarker-imgcaptioning-app-izf09f.streamlitapp.com/",
+"🏆 Image Captioning using huggingface API and streamlit.":"https://huggingface.co/spaces/Soumen/image_to_text",
 "🏆 Emotion detection application":"https://soumenksarker-emotion-recognition-app-770rmy.streamlitapp.com/",
 "🏆 Built and deployed a CV application that detects and classify objects, faces, smiles, and eyes, do enhance and filters to add effect.": "https://huggingface.co/spaces/Soumen/transform_image",
 "🏆 Develop and deploy a Personal Website with Chatbot Integration": "https://soumen-sarker-personal-website.streamlit.app/",
