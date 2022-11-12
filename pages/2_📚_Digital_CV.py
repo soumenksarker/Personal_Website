@@ -26,7 +26,7 @@ SOCIAL_MEDIA = {
     "Codeforces": "https://codeforces.com/profile/Soumen_Sarkar",
 }
 PROJECTS = {
-"🏆 Built and deployed an NLP application that reveals named entities, classifies sentiment, and do OCR base Bangla(extractive) and English(abstrutive) text summarization using spacy, textblob, genism, T5 and tesseract.": "https://huggingface.co/spaces/Soumen/Text-Summarization-and-NLP-tasks",
+"🏆 Built and deployed an NLP application that reveals named entities, classifies sentiment, and do OCR base Bangla(extractive) and English(abstructive) text summarization using spacy, textblob, genism, T5 and tesseract.": "https://huggingface.co/spaces/Soumen/Text-Summarization-and-NLP-tasks",
 "🏆 Image Captioning using huggingface API and streamlit.":"https://huggingface.co/spaces/Soumen/image_to_text",
 "🏆 Built and deployed an Image Captioning streamlit application.":"https://soumenksarker-imgcaptioning-app-izf09f.streamlitapp.com/",
 "🏆 Emotion detection application":"https://soumenksarker-emotion-recognition-app-770rmy.streamlitapp.com/",
