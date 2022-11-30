@@ -33,11 +33,11 @@ img_contact_form = Image.open("images/yt_contact_form.png")
 # ---- HEADER SECTION ----
 with st.container():
     st.subheader("Hi, I am Soumen :wave:")
-    st.title("A Data Science, ML, DL Practitioner From Bangladesh")
+    st.title("A Problem Solver, Data Science, Machine Learning, Deep Learning Practitioner From Bangladesh")
     st.write("I am passionate about finding ways to do Data Science/ML/DL projects using Python, SQL and R ."
             """
             I'll do your Data Science, Machine Learning and Deep Learning projects regarding Computer Vision, Natural Language Processing, Bussiness/Financial data 
-            analysis and Medical image/data processing from Cleaning, Analysis, Modeling, Training, Evaluating, Predicting/Inferencing to Application Design & Development.
+            analysis, Medical image/data processing and Time series forecasting from Cleaning, Analysis, Modeling, Training, Evaluating, Predicting/Inferencing to Application Design & Development.
            """
         )
 # ---- WHAT I DO ----
@@ -48,8 +48,8 @@ with st.container():
         st.header("What I will do ...")
         st.write("##")
         st.write("""
-    >Data Cleaning, Analysis & Visualization with several data sources and data formats(images, text, json e.t.c)
-        Database & Integration: SQLite, SQLAlchemy, BigQuery SQL, redis noSQL
+    >Data Cleaning, Analysis & Visualization with several data sources(i.e. web scraping, hosted db services) and data formats(images, text, json e.t.c)
+        Database & Integration: request, bs4, SQLite, SQLAlchemy, BigQuery SQL, redis noSQL
      
         Tools & libraries: Python, numpy, pandas, seaborn, Plotly
     >Apply probability and statistical techniques to derive useful insights from your data
