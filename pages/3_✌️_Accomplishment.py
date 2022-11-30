@@ -24,6 +24,7 @@ if selected=="Certifications & Projects":
         Certificates = {
             "🏆 Algorithmic Toolbox": "https://github.com/soumenksarker/Algorithmic-Toolbox-by-UCSan-Diego-Coursera",
             "🏆 Solved problem with Algorithm and Data Structures.": "https://github.com/soumenksarker/DS-and-Algs-with-solved-problems",
+            "🏆 Algorithms on Graphs.":"https://github.com/soumenksarker/Algorithm-on-graphs"
             }
         st.write('\n')
         st.subheader("Accomplishments")
