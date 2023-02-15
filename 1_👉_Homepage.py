@@ -49,16 +49,19 @@ with st.container():
         st.write("##")
         st.write("""
     >Data Cleaning, Analysis & Visualization with several data sources(i.e. web scraping, hosted db services) and data formats(images, text, json e.t.c)
+        
         Database & Integration: request, bs4, SQLite, SQLAlchemy, BigQuery SQL, redis noSQL
         Tools & libraries: Python, numpy, pandas, seaborn, Plotly
-    
     >Apply probability and statistical techniques to derive useful insights from your data
+        
         Tools & libraries: scipy, statsmodels, R
     
     >Creating Pipeline(Processing, Modeling, Training, Evaluation) with the state of the art of Machine Learning and Deep Learning techniques.
+        
         Tools & libraries: scikit-learn, Tensorflow, keras, torch, transformers
 
     > Packagging, Unit testing, API integration, Application Design & Devlopment, Deployment
+        
         Tools & libraries: poetry, tox, pytest, test PyPI, FastApi, HTML, CSS, jQuery, streamlit
       
         Cloud: huggingface, Uvicorn, Heroku, streamlit, Tensorflow Serving, GCP, AWS e.t.c""")
