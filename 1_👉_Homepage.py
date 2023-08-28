@@ -60,9 +60,9 @@ with st.container():
         
         Tools & libraries: scikit-learn, Tensorflow, keras, torch, transformers
 
-    > Packagging, Unit testing, API integration, Application Design & Devlopment, Deployment
+    > API integration, Application Design & development, Deployment
         
-        Tools & libraries: poetry, tox, pytest, test PyPI, FastApi, HTML, CSS, jQuery, streamlit
+        Tools & libraries: FastApi, HTML, CSS, jQuery, streamlit
       
         Cloud: huggingface, Uvicorn, Heroku, streamlit, Tensorflow Serving, GCP, AWS e.t.c""")
         
