@@ -32,7 +32,7 @@ img_contact_form = Image.open("images/yt_contact_form.png")
 
 # ---- HEADER SECTION ----
 with st.container():
-    st.subheader("Hi, I am Soumen :wave:")
+    st.subheader("Hi, I am Soumen,")
     st.title("A Problem Solver, Data Science, Machine Learning, Deep Learning and IoT Practitioner From Bangladesh")
     st.write("I am passionate about finding ways to do Data Science/ML/DL projects using Python, SQL and R ."
             """
