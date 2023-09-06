@@ -66,8 +66,9 @@ with st.container():
         Tools & libraries: FastApi, HTML, CSS, jQuery, MLops, Dagshub, DVC, Docker, Github Action
       
         Cloud:  Huggingface, AWS, AZURE, Streamlit, Tensorflow Serving, GCP e.t.c""")
+        
     if st.button("View my CV"):
-       switch_page(DigitalCV)
+       switch_page("DigitalCV")
         
     
     with right_column:
@@ -102,6 +103,6 @@ with st.container():
     with right_column:
         st_lottie(lottie_coding1, height=300, key="contact") #set a lottie animation here
 if st.button("View my Accomlishments"):
-    switch_page(Accomplishments)
+    switch_page("Accomplishments")
 
    
