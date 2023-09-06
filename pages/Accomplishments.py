@@ -39,25 +39,25 @@ elif option=="Data Science Courses & Projects":
         }
     st.write('\n')
     st.subheader("Accomplishments")
-        st.write("---")
-        for cer, link in Certificates.items():
-            st.write(f"[{cer}]({link})")
-    elif option=="ML/DL courses & Projects":
-        Certificates = {
-            "🏆 Machine Learning": "https://www.coursera.org/account/accomplishments/verify/F5ENWFZKEZPY",
-            "🏆 Deep Learning Specialization": "https://www.credly.com/badges/0de15cac-795a-4f08-825c-752cb2672784/public_url",
-            "🏆 DeepLearning.AI TensorFlow Developer": "https://coursera.org/share/62fe272f9bed07392226d1137bf09f2b",
-            "🏆 Complete Responsive Web Development: 4 courses in 1":"https://www.udemy.com/certificate/UC-f6d1f4c4-c0d4-4e16-a94d-8b1d3888164b/",
-            "🏆 Deployment of Machine Learning models": "https://github.com/soumenksarker/deploying-machine-learning-models",
-            # "🏆 Built and Deployed an NLP application that reveals named entities, classifies sentiment, and does text summarization using spacy, textblob, genism, streamlit and deploy to heroku.": "https://github.com/soumenksarker/text-summarizer-and-others",
-            # "🏆Image Classification/Browser based model to classify Rock/Paper/Scissors Browser-based model, node.js, training with and without transfer learning, evaluating, alerting on browser!":"https://github.com/soumenksarker/TF-in-Deployment",
-            # "🏆Built and deployed a CV application that detects faces, smiles, and eyes, do enhance, filters to add effect": "https://face-detection-opencv-strmlt.herokuapp.com/",
+    st.write("---")
+    for cer, link in Certificates.items():
+        st.write(f"[{cer}]({link})")
+elif option=="ML/DL courses & Projects":
+    Certificates = {
+        "🏆 Machine Learning": "https://www.coursera.org/account/accomplishments/verify/F5ENWFZKEZPY",
+        "🏆 Deep Learning Specialization": "https://www.credly.com/badges/0de15cac-795a-4f08-825c-752cb2672784/public_url",
+        "🏆 DeepLearning.AI TensorFlow Developer": "https://coursera.org/share/62fe272f9bed07392226d1137bf09f2b",
+        "🏆 Complete Responsive Web Development: 4 courses in 1":"https://www.udemy.com/certificate/UC-f6d1f4c4-c0d4-4e16-a94d-8b1d3888164b/",
+        "🏆 Deployment of Machine Learning models": "https://github.com/soumenksarker/deploying-machine-learning-models",
+        # "🏆 Built and Deployed an NLP application that reveals named entities, classifies sentiment, and does text summarization using spacy, textblob, genism, streamlit and deploy to heroku.": "https://github.com/soumenksarker/text-summarizer-and-others",
+        # "🏆Image Classification/Browser based model to classify Rock/Paper/Scissors Browser-based model, node.js, training with and without transfer learning, evaluating, alerting on browser!":"https://github.com/soumenksarker/TF-in-Deployment",
+        # "🏆Built and deployed a CV application that detects faces, smiles, and eyes, do enhance, filters to add effect": "https://face-detection-opencv-strmlt.herokuapp.com/",
 
-            }
-            # --- Projects & Accomplishments ---
-        st.write('\n')
-        st.subheader("Accomplishments")
-        st.write("---")
+        }
+        # --- Projects & Accomplishments ---
+    st.write('\n')
+    st.subheader("Accomplishments")
+    st.write("---")
         for cer, link in Certificates.items():
             st.write(f"[{cer}]({link})")
 
