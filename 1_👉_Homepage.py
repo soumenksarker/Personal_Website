@@ -35,7 +35,7 @@ img_contact_form = Image.open("images/yt_contact_form.png")
 with st.container():
     st.subheader("Hi, I am Soumen,")
     st.title("A Problem Solver, Data Science, Machine Learning, Deep Learning and IoT Practitioner From Bangladesh")
-    st.write("I am passionate about finding ways to do Data Science/ML/DL projects using Python, SQL and R ."
+    st.write("I am passionate about finding ways to do Data Science/ML/DL projects using Python, SQL ."
             """
             I'll do your Data Science, Machine Learning and Deep Learning projects regarding Computer Vision, Natural Language Processing, Bussiness/Financial data 
             analysis, Medical image/data processing and Time series forecasting from Cleaning, Analysis, Modeling, Training, Evaluating, Predicting/Inferencing to Application Design & Development.
@@ -55,17 +55,17 @@ with st.container():
         Tools & libraries: Python, numpy, pandas, seaborn, Plotly
     >Apply probability and statistical techniques to derive useful insights from your data
         
-        Tools & libraries: scipy, statsmodels, R
+        Tools & libraries: scipy, statsmodels
     
     >Creating Pipeline(Processing, Modeling, Training, Evaluation) with the state of the art of Machine Learning and Deep Learning techniques.
         
-        Tools & libraries: scikit-learn, Tensorflow, keras, torch, sagemaker, transformers(T5, BERT, LLMA-2, GPT-3.5)
+        Tools & libraries: scikit-learn, Tensorflow, keras, torch, transformers(T5, BERT, LLMA-2, GPT-3.5), sagemaker
 
     > API integration, Application Design & Development, Evaluation, CICD Deployment
         
-        Languages & libraries: HTML, CSS, jQuery, FastAPI, Flask, MLops, Dagshub, DVC, Docker, Github Action
+        Languages & libraries: HTML, CSS, JS, jQuery, FastAPI, Flask, MLops, Dagshub, DVC, Docker, Github Action
       
-        Cloud:  Huggingface, Streamlit, AWS, AZURE, Tensorflow Serving, GCP """)
+        Cloud:  Huggingface, Streamlit, AWS, AZURE, GCP """)
         
     if st.button("View my CV"):
        switch_page("DigitalCV")
