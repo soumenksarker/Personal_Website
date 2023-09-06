@@ -51,7 +51,7 @@ with st.container():
         st.write("""
     >Data Cleaning, Analysis & Visualization with several data sources(i.e. web scraping, hosted db services) and data formats(images, text, json e.t.c)
         
-        Database & Integration: request, bs4, SQLite, SQLAlchemy, BigQuery SQL, redis noSQL
+        Database & Integration: request, bs4, SQLite, BigQuery SQL
         Tools & libraries: Python, numpy, pandas, seaborn, Plotly
     >Apply probability and statistical techniques to derive useful insights from your data
         
