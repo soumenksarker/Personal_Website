@@ -58,7 +58,7 @@ with st.container():
     
     >Creating Pipeline(Processing, Modeling, Training, Evaluation) with the state of the art of Machine Learning and Deep Learning techniques.
         
-        Tools & libraries: scikit-learn, Sagemaker, Tensorflow, keras, torch, transformers(LLMA2, GPT3)
+        Tools & libraries: scikit-learn, Sagemaker, Tensorflow, keras, torch, transformers(T5, BERT, LLMA-2, GPT-3.5)
 
     > API integration, Application Design & Development, Evaluation, CICD Deployment
         
