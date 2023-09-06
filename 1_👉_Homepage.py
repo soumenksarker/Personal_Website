@@ -60,9 +60,9 @@ with st.container():
         
         Tools & libraries: scikit-learn, Sagemaker, Tensorflow, keras, torch, transformers(LLMA2, GPT3)
 
-    > API integration, Application Design & development, Evaluation, Deployment
+    > API integration, Application Design & Development, Evaluation, CICD Deployment
         
-        Tools & libraries: FastApi, HTML, CSS, jQuery, MLops, Dagshub, DVC, Docker
+        Tools & libraries: FastApi, HTML, CSS, jQuery, MLops, Dagshub, DVC, Docker, Github Action
       
         Cloud:  Huggingface, AWS, AZURE, Streamlit, Tensorflow Serving, GCP e.t.c""")
         
