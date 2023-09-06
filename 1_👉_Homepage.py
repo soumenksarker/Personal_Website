@@ -2,6 +2,7 @@
 #from queue import Empty
 import requests
 import streamlit as st
+from streamlit_extras.switch_page_button import switch_page
 from streamlit_lottie import st_lottie
 from PIL import Image
 
@@ -98,6 +99,9 @@ with st.container():
         st.markdown(contact_form, unsafe_allow_html=True)
     with right_column:
         st_lottie(lottie_coding1, height=300, key="contact") #set a lottie animation here
-        
+if st.button("View my CV"):
+    switch_page(Digital CV)
+if st.button("View my accomplishments"):
+    switch_page(Accomplishments)
 
    
