@@ -58,6 +58,6 @@ elif option=="ML/DL courses & Projects":
     st.write('\n')
     st.subheader("Accomplishments")
     st.write("---")
-        for cer, link in Certificates.items():
-            st.write(f"[{cer}]({link})")
+    for cer, link in Certificates.items():
+        st.write(f"[{cer}]({link})")
 
