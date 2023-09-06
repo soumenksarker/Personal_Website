@@ -1,5 +1,5 @@
 from pathlib import Path
-
+from streamlit_extras.switch_page_button import switch_page
 import streamlit as st
 from PIL import Image
 
@@ -108,3 +108,4 @@ st.subheader("Projects")
 st.write("---")
 for project, link in PROJECTS.items():
     st.write(f"[{project}]({link})")
+switch_page("1_👉_Homepage.py")
