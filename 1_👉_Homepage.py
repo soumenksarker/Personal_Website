@@ -51,7 +51,7 @@ with st.container():
         st.write("""
     >Data Cleaning, Analysis & Visualization with several data sources(i.e. web scraping, hosted db services) and data formats(images, text, json e.t.c)
         
-        Database & Integration: request, bs4, SQLite, BigQuery SQL
+        Database & Integration: request, bs4, SQLite, BigQuery SQL, BigQuery ML
         Tools & libraries: Python, numpy, pandas, seaborn, Plotly
     >Apply probability and statistical techniques to derive useful insights from your data
         
@@ -59,13 +59,13 @@ with st.container():
     
     >Creating Pipeline(Processing, Modeling, Training, Evaluation) with the state of the art of Machine Learning and Deep Learning techniques.
         
-        Tools & libraries: scikit-learn, Sagemaker, Tensorflow, keras, torch, transformers(T5, BERT, LLMA-2, GPT-3.5)
+        Tools & libraries: scikit-learn, Tensorflow, keras, torch, sagemaker, transformers(T5, BERT, LLMA-2, GPT-3.5)
 
     > API integration, Application Design & Development, Evaluation, CICD Deployment
         
-        Tools & libraries: FastApi, HTML, CSS, jQuery, MLops, Dagshub, DVC, Docker, Github Action
+        Languages & libraries: HTML, CSS, jQuery, FastAPI, Flask, MLops, Dagshub, DVC, Docker, Github Action
       
-        Cloud:  Huggingface, AWS, AZURE, Streamlit, Tensorflow Serving, GCP e.t.c""")
+        Cloud:  Huggingface, Streamlit, AWS, AZURE, Tensorflow Serving, GCP """)
         
     if st.button("View my CV"):
        switch_page("DigitalCV")
