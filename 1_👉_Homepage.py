@@ -58,13 +58,13 @@ with st.container():
     
     >Creating Pipeline(Processing, Modeling, Training, Evaluation) with the state of the art of Machine Learning and Deep Learning techniques.
         
-        Tools & libraries: scikit-learn, Tensorflow, keras, torch, transformers
+        Tools & libraries: scikit-learn, Sagemaker, Tensorflow, keras, torch, transformers(LLMA2, GPT3)
 
-    > API integration, Application Design & development, Deployment
+    > API integration, Application Design & development, Evaluation, Deployment
         
-        Tools & libraries: FastApi, HTML, CSS, jQuery, streamlit
+        Tools & libraries: FastApi, HTML, CSS, jQuery, MLops, Dagshub, DVC, Docker
       
-        Cloud: huggingface, Uvicorn, Heroku, streamlit, Tensorflow Serving, GCP, AWS e.t.c""")
+        Cloud:  Huggingface, AWS, AZURE, Streamlit, Tensorflow Serving, GCP e.t.c""")
         
     
     with right_column:
