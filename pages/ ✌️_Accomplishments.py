@@ -8,7 +8,7 @@ from streamlit_extras.switch_page_button import switch_page
 # default_index=0,
 # orientation="horizontal")
 
-st.text("Certifications & Projects")
+st.subheader("Certifications & Projects")
 option = option_menu(menu_title=None,
 options= ["Problem Solving", "Data Science Courses & Projects","ML/DL courses & Projects"], 
 icons=['boxes', 'book','bookmarks-fill'],
