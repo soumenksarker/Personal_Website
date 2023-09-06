@@ -38,7 +38,7 @@ with st.container():
     st.write("I am passionate about finding ways to do Data Science/ML/DL projects using Python, SQL ."
             """
             I'll do your Data Science, Machine Learning and Deep Learning projects regarding Computer Vision, Natural Language Processing, Bussiness/Financial data 
-            analysis, Medical image/data processing and Time series forecasting from Cleaning, Analysis, Modeling, Training, Evaluating, Predicting/Inferencing to Application Design & Development.
+            modeling, Time series forecasting and anomaly detection from Cleaning, Analysis, Design, Modeling, Training, Evaluation, Predicting/Inferencing to Application Design & Development to serve on several clouds.
            """
         )
 # ---- WHAT I DO ----
