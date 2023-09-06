@@ -102,6 +102,6 @@ with st.container():
 if st.button("View my CV"):
     switch_page(Digital_CV)
 if st.button("View my accomplishments"):
-    switch_page(2_📚_Digital_CV)
+    switch_page(Accomplishment)
 
    
