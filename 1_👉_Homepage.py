@@ -102,7 +102,7 @@ with st.container():
         st.markdown(contact_form, unsafe_allow_html=True)
     with right_column:
         st_lottie(lottie_coding1, height=300, key="contact") #set a lottie animation here
-#if st.button("View my Accomlishments"):
-switch_page("Accomplishments")
+if st.button("View my Accomlishments"):
+    switch_page("Accomplishments")
 
    
