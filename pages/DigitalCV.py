@@ -108,4 +108,5 @@ st.subheader("Projects")
 st.write("---")
 for project, link in PROJECTS.items():
     st.write(f"[{project}]({link})")
-switch_page("Homepage")
+if st.button("Home"):
+   switch_page("Homepage")
