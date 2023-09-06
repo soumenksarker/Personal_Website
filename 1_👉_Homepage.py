@@ -100,7 +100,7 @@ with st.container():
     with right_column:
         st_lottie(lottie_coding1, height=300, key="contact") #set a lottie animation here
 if st.button("View my CV"):
-    switch_page(U+1F4DA_Digital_CV)
+    switch_page(2)
 if st.button("View my accomplishments"):
     switch_page(Accomplishment)
 
