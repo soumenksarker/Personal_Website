@@ -100,7 +100,7 @@ with st.container():
     with right_column:
         st_lottie(lottie_coding1, height=300, key="contact") #set a lottie animation here
 
-switch_page(Digital_CV)
+switch_page(DigitalCV)
 switch_page(Accomplishments)
 
    
