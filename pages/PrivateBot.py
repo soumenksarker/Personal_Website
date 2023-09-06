@@ -59,7 +59,7 @@ if "history" not in st.session_state:
             result[0], skip_special_tokens=True
         )  # .replace("<s>", "").replace("</s>", "")
         st.session_state.history.append({"message": user_message, "is_user": True})
-                    st.session_state.history.append({"message": message_bot, "is_user": False})
+        st.session_state.history.append({"message": message_bot, "is_user": False})
         from copyreg import clear_extension_cache
         for chat in st.session_state.history:
             st_message(**chat) 
