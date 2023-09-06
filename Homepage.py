@@ -99,9 +99,8 @@ with st.container():
         st.markdown(contact_form, unsafe_allow_html=True)
     with right_column:
         st_lottie(lottie_coding1, height=300, key="contact") #set a lottie animation here
-# if st.button("View my CV"):
-#     switch_page("2_📚_Digital_CV")
-# if st.button("View my accomplishments"):
-#     switch_page(Accomplishment)
+
+switch_page(Digital_CV)
+switch_page(Accomplishments)
 
    
