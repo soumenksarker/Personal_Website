@@ -26,13 +26,14 @@ SOCIAL_MEDIA = {
     "Codeforces": "https://codeforces.com/profile/Soumen_Sarkar",
 }
 PROJECTS = {
-"🏆 Built and deployed an NLP application that does text generation/gpt2 and OCR(image/pdf)/tesseract base text summarization/t5-base and mt5-multilingual model by csebuetnlp.": "https://huggingface.co/spaces/Soumen/Text-Summarization-and-NLP-tasks",
-"🏆 Conversate with your any documents using llma2, deployed on streamlit cloud.":"https://multipledocumentllama2bot-uava2a7xahgt8wpxzvfggp.streamlit.app/",
+"🏆 Built and deployed an NLP application that does text generation/gpt2 and OCR(image/pdf)/tesseract base text summarization/t5-base and mt5-multilingual csebuetnlp model.": "https://huggingface.co/spaces/Soumen/Text-Summarization-and-NLP-tasks",
+"🏆 Conversate with your multiple own documents using llma2, deployed on streamlit cloud.":"https://multipledocumentllama2bot-uava2a7xahgt8wpxzvfggp.streamlit.app/",
+"🏆 End to End ML project with MLflow.":"https://dagshub.com/soumenksarker/End-to-end-Machine-Learning-Project-with-MLflow",
 "🏆 Image Captioning using huggingface API and streamlit.":"https://huggingface.co/spaces/Soumen/image_to_text",
-"🏆 Built and deployed an Image Captioning streamlit application.":"https://soumenksarker-imgcaptioning-app-izf09f.streamlitapp.com/",
+"🏆 Built and deployed a time series Anomaly Detection Tool using pycaret":"https://anomalydetectiontool-4bhf5skii5xsrscba7nzqf.streamlit.app/",
+"🏆 Developed and deployed an Image Captioning streamlit application.":"https://soumenksarker-imgcaptioning-app-izf09f.streamlitapp.com/",
 "🏆 Emotion detection application":"https://soumenksarker-emotion-recognition-app-770rmy.streamlitapp.com/",
 "🏆 Built and deployed a CV application that detects and classify objects, faces, smiles, and eyes, do enhance and filters to add effect.": "https://huggingface.co/spaces/Soumen/transform_image",
-"🏆 Develop and deploy a Personal Website with Chatbot Integration": "https://soumen-sarker-personal-website.streamlit.app/",
 "🏆 NLP literaure overview, A Sentiment Classification model by comparing naive Bayes, DNN, RNN, and LSTM classification models. Automatic Text Summarization with Transformer Architecture.": "https://github.com/soumenksarker/NLP-Specialization",  
 "🏆 Image Classification/Browser based model to classify Rock/Paper/Scissors Browser-based model, node.js, training with and without transfer learning, evaluating, alerting on browser!":"https://github.com/soumenksarker/TF-in-Deployment",
 "🏆 Bank Marketing Analysis Live Dashboard": "https://soumenksarker-live-bank-data-dashboard-app-2z8bky.streamlitapp.com/",
