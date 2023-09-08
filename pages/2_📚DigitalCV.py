@@ -26,7 +26,7 @@ SOCIAL_MEDIA = {
     "Codeforces": "https://codeforces.com/profile/Soumen_Sarkar",
 }
 PROJECTS = {
-"🏆 Built and deployed an NLP application that does text generation/gpt2 and OCR(image/pdf)/tesseract base text summarization/t5-base and mt5-multilingual csebuetnlp model.": "https://huggingface.co/spaces/Soumen/Text-Summarization-and-NLP-tasks",
+"🏆 Built and deployed an NLP application that perform OCR(image/pdf)/tesseract base text summarization using t5-base and mt5-multilingual csebuetnlp model.": "https://huggingface.co/spaces/Soumen/Text-Summarization-and-NLP-tasks",
 "🏆 Conversate with your multiple own documents using llma2, deployed on streamlit cloud.":"https://multipledocumentllama2bot-uava2a7xahgt8wpxzvfggp.streamlit.app/",
 "🏆 End to End ML project with MLflow.":"https://dagshub.com/soumenksarker/End-to-end-Machine-Learning-Project-with-MLflow",
 "🏆 Image Captioning using huggingface API and streamlit.":"https://huggingface.co/spaces/Soumen/image_to_text",
