@@ -83,7 +83,7 @@ st.write(
     """
 - ✔️ Years of expereince in extracting actionable insights from Data
 - ✔️ Strong hands on experience and knowledge in Bussiness/Financial/Data Science Projects (User_Athentication, Database Integration, KPI design, Real Time Interactive Dashboard)
-- ✔️ Good understanding of Machine Learning/Deep Learning Projects(CV, NLP, Medical Data/Image Analysis, Time Series Forecasting) Architecture and Development 
+- ✔️ Good understanding of Machine Learning/Deep Learning Projects(CV, NLP(chatbot, llma2), Image Processing, Time Series Forecasting(GCN, Graph autoencoder) Architecture Development and deployment on cloud
 - ✔️ Excellent team-player and displaying strong sense of initiative on accomplishing tasks
 """
 )
