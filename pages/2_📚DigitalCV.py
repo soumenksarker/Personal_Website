@@ -30,7 +30,7 @@ PROJECTS = {
 "🏆 Conversate with your multiple own documents using llma2, deployed on streamlit cloud.":"https://multipledocumentllama2bot-uava2a7xahgt8wpxzvfggp.streamlit.app/",
 "🏆 End to End ML project with MLflow.":"https://dagshub.com/soumenksarker/End-to-end-Machine-Learning-Project-with-MLflow",
 "🏆 Image Captioning using huggingface API and streamlit.":"https://huggingface.co/spaces/Soumen/image_to_text",
-"🏆 Built and deployed a time series Anomaly Detection Tool using pycaret":"https://anomalydetectiontool-4bhf5skii5xsrscba7nzqf.streamlit.app/",
+"🏆 Built and deployed a time series Anomaly Detection Tool using pycaret":"https://adtool.streamlit.app/",
 "🏆 Developed and deployed an Image Captioning streamlit application.":"https://soumenksarker-imgcaptioning-app-izf09f.streamlitapp.com/",
 "🏆 Emotion detection application":"https://soumenksarker-emotion-recognition-app-770rmy.streamlitapp.com/",
 "🏆 Built and deployed a CV application that detects and classify objects, faces, smiles, and eyes, do enhance and filters to add effect.": "https://huggingface.co/spaces/Soumen/transform_image",
