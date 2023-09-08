@@ -26,9 +26,9 @@ SOCIAL_MEDIA = {
     "Codeforces": "https://codeforces.com/profile/Soumen_Sarkar",
 }
 PROJECTS = {
-"🏆 Built and deployed an NLP application that reveals named entities, classifies sentiment, and does OCR(image/pdf) base English(abstructive) text summarization using tesseract, spacy, textblob, T5, and gpt2-large.": "https://huggingface.co/spaces/Soumen/Text-Summarization-and-NLP-tasks",
-"🏆 Built and deployed an Image Captioning streamlit application.":"https://soumenksarker-imgcaptioning-app-izf09f.streamlitapp.com/",
+"🏆 Built and deployed an NLP application that does text generation/t5 and OCR(image/pdf)/tesseract base text summarization/t5-base and mt5-multilingual model by csebuetnlp.": "https://huggingface.co/spaces/Soumen/Text-Summarization-and-NLP-tasks",
 "🏆 Image Captioning using huggingface API and streamlit.":"https://huggingface.co/spaces/Soumen/image_to_text",
+"🏆 Built and deployed an Image Captioning streamlit application.":"https://soumenksarker-imgcaptioning-app-izf09f.streamlitapp.com/",
 "🏆 Emotion detection application":"https://soumenksarker-emotion-recognition-app-770rmy.streamlitapp.com/",
 "🏆 Built and deployed a CV application that detects and classify objects, faces, smiles, and eyes, do enhance and filters to add effect.": "https://huggingface.co/spaces/Soumen/transform_image",
 "🏆 Develop and deploy a Personal Website with Chatbot Integration": "https://soumen-sarker-personal-website.streamlit.app/",
