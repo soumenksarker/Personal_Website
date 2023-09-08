@@ -82,8 +82,8 @@ st.subheader("Experience & Qulifications")
 st.write(
     """
 - ✔️ Years of expereince in extracting actionable insights from Data
-- ✔️ Strong hands on experience and knowledge in Bussiness/Financial/Data Science Projects (User_Athentication, Database Integration, KPI design, Real Time Interactive Dashboard)
-- ✔️ Good understanding of Machine Learning/Deep Learning Projects(CV, NLP(chatbot, llma2), Image Processing, Time Series Forecasting(GCN, Graph autoencoder) Architecture Development and deployment on cloud
+- ✔️ Good understanding of Bussiness/Financial/Data Science Projects (User_Athentication, Database Integration, KPI design, Real Time Interactive Dashboard)
+- ✔️ Strong hands on experience of Machine Learning/Deep Learning Projects(CV, NLP(chatbot, llma2), Image Processing, Time Series Forecasting(GCN, Graph autoencoder, Attention) Architecture Development and Deployment on cloud
 - ✔️ Excellent team-player and displaying strong sense of initiative on accomplishing tasks
 """
 )
@@ -94,11 +94,11 @@ st.write('\n')
 st.subheader("Hard Skills")
 st.write(
     """
-- 👩‍💻 Programming: Python (Scikit-learn, Pandas, Tensorflow, Keras), SQL
-- 🗄️ Databases: SQLite, MySQL, Postgres, BigQuery SQL
+- 👩‍💻 Programming: Python (Scikit-learn, Pandas, Tensorflow, Keras, MLops, SageMaker ), SQL
+- 🗄️ Databases: SQLite, BigQuery SQL, BigQuery ML
 - 📊 Data Visulization: Matplotlib, seaborn, ggplot2, Plotly
-- 📚 Modeling: ML-Logistic regression, linear regression, decision trees, Random Forest, XGBoost
-               DL-CNN, RNN, LSTM, Autoencoder, Transformer
+- 📚 Modeling: ML-Logistic regression, linear regression, decision trees, SVM, Random Forest, XGBoost
+               DL-CNN, RNN, LSTM, Autoencoder, Attention, Transformer, LLMA2
 
 """
 )
