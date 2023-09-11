@@ -59,13 +59,13 @@ with st.container():
     
     >Creating Pipeline(Processing, Modeling, Training, Evaluation) with the state of the art of Machine Learning and Deep Learning techniques.
         
-        Tools & libraries: scikit-learn, Tensorflow, keras, torch, transformers(T5, BERT, LLMA-2, GPT-3.5), sagemaker
+        Tools & libraries: scikit-learn, Tensorflow, keras, torch, transformers(T5, BERT, LLMA-2, GPT-3.5)
 
     > API integration, Application Design & Development, Evaluation, CICD Deployment
         
-        Languages & libraries: HTML, CSS, JS, jQuery, FastAPI, Flask, MLops, Dagshub, DVC, Docker, Github Action
+        Languages & libraries: Vertex AI, AutoML, FastAPI, Flask, DVC, Docker, Dagshub, MLOps, Github Action
       
-        Cloud:  Huggingface, Streamlit, AWS, AZURE, GCP """)
+        Cloud:  Huggingface, Streamlit, GCP """)
         
     if st.button("View my CV"):
        switch_page("DigitalCV")
