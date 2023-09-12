@@ -51,7 +51,7 @@ with st.container():
         st.write("""
     >Data Cleaning, Analysis & Visualization with several data sources(i.e. web scraping, hosted db services) and data formats(images, text, json e.t.c)
         
-        Database & Integration: request, bs4, SQLite, BigQuery SQL, BigQuery ML
+        Database & Integration: request, bs4, SQLite, BigQuery
         Tools & libraries: Python, numpy, pandas, seaborn, Plotly
     >Apply probability and statistical techniques to derive useful insights from your data
         
@@ -63,7 +63,7 @@ with st.container():
 
     > API integration, Application Design & Development, Evaluation, CICD Deployment
         
-        Languages & libraries: Vertex AI, AutoML, FastAPI, Flask, DVC, Docker, Dagshub, MLOps, Github Action
+        Languages, libraries & APIs: BigQueryML, Vertex AI, AutoML, Generative Ai Studio, FastAPI, Flask, DVC, Docker, Dagshub, MLOps, Github Action
       
         Cloud:  Huggingface, Streamlit, GCP """)
         
