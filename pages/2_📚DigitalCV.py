@@ -27,11 +27,11 @@ SOCIAL_MEDIA = {
 }
 PROJECTS = {
 "🏆 Chatbot and OCR(images/pdfs)/tesseract base text summarization using t5-base and mt5-multilingual csebuetnlp model for bangla and english languages.": "https://huggingface.co/spaces/Soumen/Text-Summarization-and-NLP-tasks",
-"🏆 Real-time Credit Card fraud detection using Vertex AI, AutoML, BigQuery, Pub/Sub, Dataflow on Google Cloud":"https://github.com/soumenksarker/fraudfinder",
-"🏆 End to End(Data Ingestion, Transformation, Feature Engineering and Model Traning, Evaluation and Deployment) with Dagshub, MLflow CICD Deployment using Gitub Action on AWS EC2 instance.":"https://dagshub.com/soumenksarker/End-to-end-Machine-Learning-Project-with-MLflow",
+"🏆 Real-time Credit Card fraud detection using Vertex AI, AutoML, BigQuery, Pub/Sub, Dataflow on Google Cloud.":"https://github.com/soumenksarker/fraudfinder",
+"🏆 End to End Data Ingestion, Transformation, Feature Engineering and Model Traning, Evaluation with Dagshub, MLflow and CICD Deployment using Gitub Action on AWS EC2 instance.":"https://dagshub.com/soumenksarker/End-to-end-Machine-Learning-Project-with-MLflow",
 "🏆 Dedicated expert system/conversate with multiple domain-specific pdfs using replica API llma2, langchain, FAISS vector database deployed on streamlit cloud.":"https://multipledocumentllama2bot-uava2a7xahgt8wpxzvfggp.streamlit.app/",
-"🏆 Unstructured data analytics with BigQuery ML and Vertex AI pre-trained models. Vision API to extract texts from movie posters, Translation API to translate into English and NLP API to sentiment analysis of movie reviews ":"https://colab.research.google.com/drive/1dapJBwSqyk0OkJi-6pH1Vl-6KKFwWPyl?usp=sharing",
-"🏆 Built and deployed a time series Anomaly Detection Tool using pycaret":"https://adtool.streamlit.app/",
+"🏆 Unstructured data analytics with BigQuery ML and Vertex AI pre-trained models. Vision API to extract texts from movie posters, Translation API to translate into English and NLP API to sentiment analysis of movie reviews.":"https://colab.research.google.com/drive/1dapJBwSqyk0OkJi-6pH1Vl-6KKFwWPyl?usp=sharing",
+"🏆 Built and deployed a time series Anomaly Detection Tool using pycaret.":"https://adtool.streamlit.app/",
 "🏆 Image Captioning using huggingface API and streamlit.":"https://huggingface.co/spaces/Soumen/image_to_text",
 "🏆 Emotion detection application":"https://soumenksarker-emotion-recognition-app-770rmy.streamlitapp.com/",
 "🏆 Built and deployed a CV application that detects and classifies objects, faces, smiles, and eyes, do enhance and filters to add effect.": "https://huggingface.co/spaces/Soumen/transform_image",
