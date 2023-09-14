@@ -80,13 +80,13 @@ for index, (platform, link) in enumerate(SOCIAL_MEDIA.items()):
 
 # --- EXPERIENCE & QUALIFICATIONS ---
 st.write('\n')
-st.subheader("Experience & Qulifications")
+st.subheader("Experience & Qualifications")
 st.write(
     """
-- ✔️ Years of expereince in extracting actionable insights from Data
-- ✔️ Good understanding of Bussiness/Financial/Data Science Projects (User_Athentication, Database Integration, KPI design, Real Time Interactive Dashboard)
-- ✔️ Strong hands on experience of Machine Learning/Deep Learning Projects(CV, NLP(chatbot, llma2), Image Processing, Time Series Forecasting(GCN, Graph autoencoder, Attention) Architecture Development and Deployment on cloud
-- ✔️ Excellent team-player and displaying strong sense of initiative on accomplishing tasks
+- ✔️ Years of experience in extracting actionable insights from structured and Unstructured Data.
+- ✔️ Good understanding of business/financial or any Data Science Projects (User_Athentication, Database Integration, KPI design, Real-Time Interactive Dashboard).
+- ✔️ Strong hands-on experience in Machine Learning/Deep Learning Projects CV, NLP(sentiment analysis, translation, chatbot), Time Series Forecasting, and Anomaly Detection(Pycaret, XGBoost, LSTM, Graph autoencoder, Attention) Architecture Development and Deployment on the cloud.
+- ✔️ Excellent team player and displays a strong sense of initiative in accomplishing tasks.
 """
 )
 
@@ -96,11 +96,11 @@ st.write('\n')
 st.subheader("Hard Skills")
 st.write(
     """
-- 👩‍💻 Programming: Python (Scikit-learn, Pandas, Tensorflow, Keras, MLops, SageMaker ), SQL
+- 👩‍💻 Programming: Python (Scikit-learn, Pandas, Tensorflow, Keras, Vertext AI, MLops), SQL
 - 🗄️ Databases: SQLite, BigQuery SQL, BigQuery ML
-- 📊 Data Visulization: Matplotlib, seaborn, ggplot2, Plotly
-- 📚 Modeling: ML-Logistic regression, linear regression, decision trees, SVM, Random Forest, XGBoost
-               DL-CNN, RNN, LSTM, Autoencoder, Attention, Transformer, LLMA2
+- 📊 Data Visualization: Matplotlib, seaborn, ggplot2, Plotly
+- 📚 Modeling: ML-Logistic regression, linear regression, decision trees, SVM, Random Forest, XGBoost,
+               CNN, RNN, LSTM, Autoencoder,  Transformer, Attention, LLMA2
 
 """
 )
