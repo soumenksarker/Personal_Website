@@ -3,7 +3,11 @@ from streamlit_extras.switch_page_button import switch_page
 import streamlit as st
 from PIL import Image
 
-
+c1, c2=st.columns([2,3])
+if c1.button("Home"):
+    switch_page("Homepage")
+if c2.button("Accomplishments"):
+    switch_page("Accomplishments")
 # --- PATH SETTINGS ---
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = current_dir / "styles" / "main.css"
