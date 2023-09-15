@@ -2,6 +2,8 @@ from pathlib import Path
 from streamlit_extras.switch_page_button import switch_page
 import streamlit as st
 from PIL import Image
+PAGE_TITLE = "Digital CV | SOUMEN SARKER"
+PAGE_ICON = ":wave:"
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
 c1, c2=st.columns([2,3])
 if c1.button("Home"):
@@ -16,8 +18,6 @@ profile_pic = current_dir / "assets" / "365301312_3529339043954415_6400940064087
 
 
 # --- GENERAL SETTINGS ---
-PAGE_TITLE = "Digital CV | SOUMEN SARKER"
-PAGE_ICON = ":wave:"
 NAME = "SOUMEN SARKER"
 DESCRIPTION = """
 Data Sceince Enthuesiest, ML/DL Practitioner.
