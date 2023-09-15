@@ -5,7 +5,6 @@ from PIL import Image
 PAGE_TITLE = "Digital CV | SOUMEN SARKER"
 PAGE_ICON = ":wave:"
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
-c1, c2=st.columns([2,3])
 # --- PATH SETTINGS ---
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = current_dir / "styles" / "main.css"
@@ -108,6 +107,7 @@ st.subheader("Projects")
 st.write("---")
 for project, link in PROJECTS.items():
     st.write(f"[{project}]({link})")
+c1, c2=st.columns([2,3])
 if c1.button("Home"):
     switch_page("Homepage")
 if c2.button("Accomplishments"):
