@@ -1,21 +1,19 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
 from streamlit_extras.switch_page_button import switch_page
-# selected = option_menu(menu_title=None,
-# options= ["Certifications & Projects","Live Chat"], 
-# icons=['bookmarks fill', "chat-dots"],
-# menu_icon="cast",
-# default_index=0,
-# orientation="horizontal")
 
 st.subheader("Certifications & Projects")
+c1, c2=st.columns([2,3])
+if c1.button("Home"):
+    switch_page("Homepage")
+if c2.button("CV"):
+    switch_page("DigitalCV")
 option = option_menu(menu_title=None,
 options= ["Problem Solving", "Data Science Courses & Projects","ML/DL courses & Projects"], 
 icons=['boxes', 'book','bookmarks-fill'],
 menu_icon="cast",
 default_index=0,
-orientation="vertical"
-)
+orientation="horizontal")
 
 if option=="Problem Solving":
     Certificates = {
@@ -61,6 +59,5 @@ elif option=="ML/DL courses & Projects":
     st.write("---")
     for cer, link in Certificates.items():
         st.write(f"[{cer}]({link})")
-if st.button("Home"):
-    switch_page("Homepage")
+
 
