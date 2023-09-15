@@ -1,13 +1,12 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
 from streamlit_extras.switch_page_button import switch_page
-
-st.subheader("Certifications & Projects")
 c1, c2=st.columns([2,3])
 if c1.button("Home"):
     switch_page("Homepage")
 if c2.button("CV"):
     switch_page("DigitalCV")
+st.subheader("Certifications & Projects")
 option = option_menu(menu_title=None,
 options= ["Problem Solving", "Data Science Courses & Projects","ML/DL courses & Projects"], 
 icons=['boxes', 'book','bookmarks-fill'],
