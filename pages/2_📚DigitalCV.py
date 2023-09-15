@@ -2,7 +2,7 @@ from pathlib import Path
 from streamlit_extras.switch_page_button import switch_page
 import streamlit as st
 from PIL import Image
-
+st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
 c1, c2=st.columns([2,3])
 if c1.button("Home"):
     switch_page("Homepage")
@@ -45,9 +45,6 @@ PROJECTS = {
 "🏆 House Price Prediction from research to production environment using Sci-kit-learn API (OOP, Inheritance, Transformer, Pipeline), pydantic, pytest, tox, Fast API and Uvicorn.":"https://fathomless-falls-91100.herokuapp.com/docs",
 
 }
-
-
-st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
 
 
 # --- LOAD CSS, PDF & PROFIL PIC ---
