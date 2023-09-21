@@ -15,7 +15,7 @@ profile_pic = current_dir / "assets" / "365301312_3529339043954415_6400940064087
 # --- GENERAL SETTINGS ---
 NAME = "SOUMEN SARKER"
 DESCRIPTION = """
-Data Sceince Enthuesiest, ML/DL Practitioner.
+Kaggle kernel Expert, ML/DL Specialist.
 """
 EMAIL = "sks0007771@gmail.com"
 SOCIAL_MEDIA = {
