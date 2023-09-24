@@ -25,7 +25,7 @@ SOCIAL_MEDIA = {
     "Codeforces": "https://codeforces.com/profile/Soumen_Sarkar",
 }
 PROJECTS = {
-"🏆 Chatbot and OCR(images/pdfs)/tesseract base text summarization using t5-base and mt5-multilingual csebuetnlp model for bangla and english languages.": "https://huggingface.co/spaces/Soumen/Text-Summarization-and-NLP-tasks",
+"🏆 Text summarization, from images/pdfs using t5-base and mt5-multilingual csebuetnlp model for bangla and english languages.": "https://huggingface.co/spaces/Soumen/Text-Summarization-and-NLP-tasks",
 "🏆 Expert system/conversate beyond your data(healthcare, finance, literature e.t.c) using PaLM2 API, Pincone, Langchain":"https://palmapilangchain-iwjbh4hqfuztdyyysmcxqk.streamlit.app/",
 "🏆 Image Captioning using huggingface API and streamlit.":"https://huggingface.co/spaces/Soumen/image_to_text",
 "🏆 Emotion detection application":"https://soumenksarker-emotion-recognition-app-770rmy.streamlitapp.com/",
