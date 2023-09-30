@@ -26,7 +26,7 @@ SOCIAL_MEDIA = {
 }
 PROJECTS = {
 "🏆 Text summarization, from images/pdfs using t5-base and mt5-multilingual csebuetnlp model for bangla and english languages.": "https://huggingface.co/spaces/Soumen/Text-Summarization-and-NLP-tasks",
-"🏆 Expert system/conversate beyond your data(healthcare, finance, literature e.t.c) using PaLM2 API, Pincone, Langchain":"https://chatwithowndata.streamlit.app/",
+"🏆 Expert system/conversate beyond your data(healthcare, finance, law, literature e.t.c) using PaLM2 API, Pincone, Langchain":"https://chatwithyourownexpertsystem.streamlit.app/",
 "🏆 Image Captioning using huggingface API and streamlit.":"https://huggingface.co/spaces/Soumen/image_to_text",
 "🏆 Emotion detection application":"https://soumenksarker-emotion-recognition-app-770rmy.streamlitapp.com/",
 "🏆 Detects and classifies objects, faces, smiles, and eyes, do enhance and filters to add effect.": "https://huggingface.co/spaces/Soumen/transform_image",
