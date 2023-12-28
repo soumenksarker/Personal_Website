@@ -55,8 +55,8 @@ if selected=="Home":
             st.write("""
         >Data Cleaning, Analysis & Visualization with several data sources(i.e. web scraping, hosted db services) and data formats(images, text, json e.t.c)
             
-            Database & Integration: request, bs4, SQLite, BigQuery
-            Tools & libraries: Python, numpy, pandas, seaborn, Plotly
+            Database & Integration: FastAPI, Postgres db, SQLAlchemy ORM model, Alembic, BigQuery
+            Tools & libraries: Python, request, bs4, numpy, pandas, seaborn, Plotly
         >Apply probability and statistical techniques to derive useful insights from your data
             
             Tools & libraries: scipy, statsmodels
