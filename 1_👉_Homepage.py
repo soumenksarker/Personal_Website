@@ -63,11 +63,11 @@ if selected=="Home":
         
         >Creating Pipeline(Processing, Modeling, Training, Evaluation) with the state of the art of Machine Learning and Deep Learning techniques.
             
-            Tools & libraries: scikit-learn, Tensorflow, keras, torch, transformers(T5, BERT, LLMA-2, GPT-3.5)
+            Tools & libraries: scikit-learn, Tensorflow, keras, torch, BigQueryML, Vertex AI, AutoML, Generative Ai Studio, Transformers(T5, BERT, LLMA-2, GPT-3.5)
     
         > API integration, Application Design & Development, Evaluation, CICD Deployment
             
-            Languages, libraries & APIs: Python, BigQueryML, Vertex AI, AutoML, Generative Ai Studio, FastAPI, Flask, DVC, Docker, Dagshub, MLOps, Github Action
+            Languages, libraries & APIs: FastAPI, Flask, DVC, HTML, CSS, react.js, react.native, Docker, Dagshub, MLOps, Github Action
           
             Cloud:  Huggingface, Streamlit, GCP """)
             
