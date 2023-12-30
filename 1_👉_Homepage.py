@@ -55,7 +55,7 @@ if selected=="Home":
             st.write("""
         >Data Cleaning, Analysis & Visualization with several data sources(i.e. web scraping, hosted db services) and data formats(images, text, json e.t.c)
             
-            Database & Integration: FastAPI, Postgres db, SQLAlchemy ORM model, Alembic, BigQuery
+            Database & Integration: FastAPI, SQLite3, Postgres db, SQLAlchemy ORM model, Alembic, BigQuery
             Tools & libraries: Python, request, bs4, numpy, pandas, seaborn, Plotly
         >Apply probability and statistical techniques to derive useful insights from your data
             
