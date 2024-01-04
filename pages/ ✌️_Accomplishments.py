@@ -14,7 +14,7 @@ orientation="horizontal")
 if option=="Problem Solving":
     Certificates = {
         "🏆 Algorithmic Toolbox": "https://github.com/soumenksarker/Algorithmic-Toolbox-by-UCSan-Diego-Coursera",
-        "🏆 Solved problem with Algorithm and Data Structures, EDA, ML": "https://github.com/soumenksarker/DS-and-Algs-with-solved-problems",
+        "🏆 DS & Algorithms, ML basic": "https://github.com/soumenksarker/DS-and-Algs-with-solved-problems",
         "🏆 Algorithms on Graphs.":"https://github.com/soumenksarker/Algorithm-on-graphs"
         }
     st.write('\n')
