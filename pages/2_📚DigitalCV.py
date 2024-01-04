@@ -28,7 +28,7 @@ PROJECTS = {
 "🏆 Document AI to train a Custom Document Extractor processor. ": "https://codelabs.developers.google.com/codelabs/docai-custom#12",
 "🏆 Text summarization, from images/pdfs using t5-base and mt5-multilingual csebuetnlp model for bangla and english languages.": "https://huggingface.co/spaces/Soumen/Text-Summarization-and-NLP-tasks",
 "🏆 Expert system/conversate beyond your data(healthcare, finance, law, literature e.t.c) using PaLM2 API, Pincone, Langchain":"https://chatwithyourownexpertsystem.streamlit.app/",
-"🏆 NLP literature review: A Sentiment Classification model by comparing naive Bayes, DNN, RNN, and LSTM classification models. Ended with advanced architecture like Transformer midel, built an Automatic Text Summarizer": "https://github.com/soumenksarker/NLP-Specialization",  
+"🏆 NLP literature review: A Sentiment Classification model by comparing naive Bayes, DNN, RNN, and LSTM classification models. Ended with an advanced architecture like Transformer model to built an Automatic Text Summarizer": "https://github.com/soumenksarker/NLP-Specialization",  
 "🏆 Image Captioning using huggingface API and streamlit.":"https://huggingface.co/spaces/Soumen/image_to_text",
 "🏆 Emotion detection application":"https://soumenksarker-emotion-recognition-app-770rmy.streamlitapp.com/",
 "🏆 Detects and classifies objects, faces, smiles, and eyes, do enhance and filters to add effect.": "https://huggingface.co/spaces/Soumen/transform_image",
