@@ -25,6 +25,7 @@ SOCIAL_MEDIA = {
     "Codeforces": "https://codeforces.com/profile/Soumen_Sarkar",
 }
 PROJECTS = {
+"🏆 Document AI to train a Custom Document Extractor processor. ": "https://codelabs.developers.google.com/codelabs/docai-custom#12",
 "🏆 Text summarization, from images/pdfs using t5-base and mt5-multilingual csebuetnlp model for bangla and english languages.": "https://huggingface.co/spaces/Soumen/Text-Summarization-and-NLP-tasks",
 "🏆 Expert system/conversate beyond your data(healthcare, finance, law, literature e.t.c) using PaLM2 API, Pincone, Langchain":"https://chatwithyourownexpertsystem.streamlit.app/",
 "🏆 Image Captioning using huggingface API and streamlit.":"https://huggingface.co/spaces/Soumen/image_to_text",
