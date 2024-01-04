@@ -32,12 +32,11 @@ PROJECTS = {
 "🏆 Image Captioning using huggingface API and streamlit.":"https://huggingface.co/spaces/Soumen/image_to_text",
 "🏆 Emotion detection application":"https://soumenksarker-emotion-recognition-app-770rmy.streamlitapp.com/",
 "🏆 Detects and classifies objects, faces, smiles, and eyes, do enhance and filters to add effect.": "https://huggingface.co/spaces/Soumen/transform_image",
+"🏆 Unstructured data analytics with BigQuery ML and Vertex AI pre-trained models. Vision API to extract texts from movie posters, Translation API to translate into English, and NLP API to sentiment analysis of movie reviews.":"https://colab.research.google.com/drive/1dapJBwSqyk0OkJi-6pH1Vl-6KKFwWPyl?usp=sharing",
+"🏆 Image Classification/Browser-based model to classify Rock/Paper/Scissors Browser-based model, node.js, training with and without transfer learning, evaluating, alerting on browser!":"https://github.com/soumenksarker/TF-in-Deployment",
 "🏆 Real-time Credit Card fraud detection using Vertex AI, AutoML, BigQuery, Pub/Sub, Dataflow on GCP.":"https://github.com/soumenksarker/fraudfinder",
 "🏆 End to End Data Ingestion, Transformation, Feature Engineering and Model training, Evaluation with Dagshub, MLflow, and CICD Deployment using GitHub Action on AWS EC2 instance.":"https://dagshub.com/soumenksarker/End-to-end-Machine-Learning-Project-with-MLflow",
-"🏆 Unstructured data analytics with BigQuery ML and Vertex AI pre-trained models. Vision API to extract texts from movie posters, Translation API to translate into English, and NLP API to sentiment analysis of movie reviews.":"https://colab.research.google.com/drive/1dapJBwSqyk0OkJi-6pH1Vl-6KKFwWPyl?usp=sharing",
-"🏆 Built and deployed a time series Anomaly Detection Tool using pycaret.":"https://adtool.streamlit.app/",
-"🏆 Image Classification/Browser-based model to classify Rock/Paper/Scissors Browser-based model, node.js, training with and without transfer learning, evaluating, alerting on browser!":"https://github.com/soumenksarker/TF-in-Deployment",
-"🏆 Bank Marketing Analysis Live Dashboard": "https://soumenksarker-live-bank-data-dashboard-app-2z8bky.streamlitapp.com/",
+"🏆 Built and deployed a time series Anomaly Detection Tool(analysis, train, visualize and save the model) using pycaret.":"https://adtool.streamlit.app/",
 "🏆 House Price Prediction from research to production environment using Sci-kit-learn API (OOP, Inheritance, Transformer, Pipeline), pydantic, pytest, tox, Fast API and Uvicorn.":"https://fathomless-falls-91100.herokuapp.com/docs",
 
 }
