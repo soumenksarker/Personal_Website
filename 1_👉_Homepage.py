@@ -67,7 +67,7 @@ if selected=="Home":
     
         > API integration, Application Design & Development, Evaluation, CICD Deployment
             
-            Languages, libraries & APIs: FastAPI, Flask, DVC, HTML, CSS, react.js, react.native, Docker, Dagshub, MLOps, Github Action
+            Languages, libraries & APIs: FastAPI, Flask, DVC, Docker, Dagshub, MLOps, Github Action
           
             Cloud:  Huggingface, Streamlit, GCP """)
             
