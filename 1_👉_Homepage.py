@@ -53,21 +53,21 @@ if selected=="Home":
             st.header("What I will do ...")
             st.write("##")
             st.write("""
-        >Data Cleaning, Analysis & Visualization with several data sources(i.e. web scraping, hosted db services) and data formats(images, text, json e.t.c)
+        >Data Sraping, Preprocessing, Analysis & Visualization with several data sources(i.e. web scraping, hosted db services) and data formats(images, text, json e.t.c)
             
-            Database & Integration: FastAPI, SQLite3, Postgres db, SQLAlchemy ORM model, Alembic, BigQuery
-            Tools & libraries: Python, request, bs4, numpy, pandas, seaborn, Plotly
-        >Apply probability and statistical techniques to derive useful insights from your data
+            Database & API Integration: FastAPI, PostgresSQL, SQLAlchemy, Alembic, OpenSearch, BigQuery.
+            Tools & libraries: Selenium, numpy, pandas, seaborn, Plotly.
+        >Apply probability and statistical techniques to derive useful insights from your data.
             
             Tools & libraries: scipy, statsmodels
         
         >Creating Pipeline(Processing, Modeling, Training, Evaluation) with the state of the art of Machine Learning and Deep Learning techniques.
             
-            Tools & libraries: scikit-learn, Tensorflow, keras, torch, BigQueryML, Vertex AI, AutoML, Generative Ai Studio, Transformers(T5, BERT, LLMA-2, GPT-3.5)
+            Tools & libraries: scikit-learn, Tensorflow, keras, torch, BigQueryML, Vertex AI, AutoML, Transformers(T5, BERT, LLMA-2, GPT-3.5), Generative Ai Studio.
     
         > API integration, Application Design & Development, Evaluation, CICD Deployment
             
-            Languages, libraries & APIs: FastAPI, Flask, DVC, Docker, Dagshub, MLOps, Github Action
+            Languages, libraries & APIs: FastAPI, Flask, DVC, Docker, Dagshub, MLOps, Github Action.
           
             Cloud:  Huggingface, Streamlit, GCP """)
             
