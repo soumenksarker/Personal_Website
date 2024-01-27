@@ -63,7 +63,7 @@ if selected=="Home":
         
         >Creating Pipeline(Processing, Modeling, Training, Evaluation) with the state of the art of Machine Learning and Deep Learning techniques.
             
-            Tools & libraries: scikit-learn, Tensorflow, Keras, torch, BigQueryML, Vertex AI, AutoML, Transformers(T5, BERT, LLMA-2, GPT-3.5), Generative Ai Studio.
+            Tools & libraries: scikit-learn, Tensorflow, Keras, torch, BigQueryML, Vertex AI, AutoML, Generative Ai Studio.
     
         > API integration, Application Design & Development, Evaluation, CICD Deployment
             
