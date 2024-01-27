@@ -94,10 +94,10 @@ st.subheader("Hard Skills")
 st.write(
     """
 - 👩‍💻 Programming: Python (Scikit-learn, Pandas, Tensorflow, Keras, AutoML), SQL
-- 🗄️ Databases: SQLite, Postgres, BigQuery SQL
+- 🗄️ Databases: OpenSearch, PostgresSQL, BigQuery SQL
 - 📊 Data Visualization: Matplotlib, seaborn, ggplot2, Plotly
 - 📚 Modeling: ML-Logistic regression, linear regression, decision trees, SVM, Random Forest, XGBoost,
-               CNN, RNN, LSTM, Autoencoder,  Transformer, Attention, LLMA2
+               CNN, RNN, LSTM, Autoencoder, Transformer, Attention, LLMA2
 
 """
 )
