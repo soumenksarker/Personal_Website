@@ -39,10 +39,10 @@ if selected=="Home":
     with st.container():
         st.subheader("Hi, My name is Soumen.")
         st.title("Problem Solver, Data Science, Machine Learning, Deep Learning and IoT Practitioner From Bangladesh.")
-        st.write("I am passionate about finding ways to do Data Science/ML/DL projects using Python, SQL."
+        st.write("Passionate about finding ways to do Data Science/ML/DL projects using Python, SQL."
                 """
-                I'll do your Data Science, Machine Learning and Deep Learning projects regarding Computer Vision, Natural Language Processing, Bussiness/Financial data 
-                modeling, Time series forecasting and anomaly detection from Cleaning, Analysis, Design, Modeling, Training, Evaluation, Predicting/Inferencing to Application Design & Development to serve on several clouds.
+                Regarding Natural Language Processing, Business/Financial Data 
+                Modeling, Time Series Forecasting/Anomaly Detection, and Computer Vision from Preprocessing, Analysis, Design, Modeling, Training, Evaluation, Prediction/Inferencing, Application Design & Development, and API Integration to Deployment on Clouds.
                """
             )
     # ---- WHAT I DO ----
