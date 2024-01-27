@@ -26,7 +26,7 @@ SOCIAL_MEDIA = {
 }
 PROJECTS = {
 "🏆 Real Time web scraping using Selenium, Sqlalchemy, Docker-compose, PostgresSQL and Opensearch Integration.": "https://github.com/soumenksarker/RealtimeScraperOpenSearchPostgresIntegration",
-"🏆 Real-time Credit Card fraud detection using Vertex AI, AutoML, BigQuery, Pub/Sub, Dataflow on GCP.":"https://github.com/soumenksarker/fraudfinder",
+"🏆 Real-time Credit Card fraud detection using Vertex AI, AutoML, BigQuery, Pub/Sub, Feature Store and Dataflow on GCP.":"https://github.com/soumenksarker/fraudfinder",
 "🏆 Unstructured data analytics with BigQuery ML and Vertex AI pre-trained models. Vision API to extract texts from movie posters, Translation API to translate into English, and NLP API to sentiment analysis of movie reviews.":"https://colab.research.google.com/drive/1dapJBwSqyk0OkJi-6pH1Vl-6KKFwWPyl?usp=sharing",
 "🏆 Building a Retail Demand Forecasting Model with Dashboard in BigQueryML and DataStudio.": "https://drive.google.com/file/d/1sYq5lMC3-FPNNUuuIUovh7Xld6QAuBrx/view?usp=sharing",
 "🏆 Built and deployed a time series Anomaly Detection Tool(analysis, train, visualize and save the model) using pycaret.":"https://adtool.streamlit.app/",
