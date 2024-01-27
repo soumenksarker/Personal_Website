@@ -82,8 +82,8 @@ st.subheader("Experience & Qualifications")
 st.write(
     """
 - ✔️ 3+ years of experience in extracting actionable insights from structured and Unstructured Data.
-- ✔️ Good understanding of business/financial or any Data Science Projects (User_Athentication, Database Integration, KPI design, Real-Time Interactive Dashboard).
-- ✔️ Strong hands-on experience in Machine Learning/Deep Learning Projects CV(Objet Detection, Segmentation, Classification, Tracking) NLP(Sentiment Analysis, Translation, Chatbot), Time Series Forecasting, and Anomaly Detections(Stock Prices, Transactional Data) Architecture Development and Deployment on the Cloud.
+- ✔️ Good understanding of business/financial projects (User_Athentication, Database Integration, KPI design, Real-Time Interactive Dashboard).
+- ✔️ Strong hands-on experience in Machine Learning/Deep Learning Projects NLP(NMT, LLMS),  CV(Objet Detection, Segmentation, Classification, Tracking), Time Series Forecasting and Anomaly Detections(Prices, Transactional Data) Architechture Development.
 - ✔️ Excellent team player and displays a strong sense of initiative in accomplishing tasks.
 """
 )
@@ -95,10 +95,10 @@ st.subheader("Hard Skills")
 st.write(
     """
 - 👩‍💻 Programming: Python (Scikit-learn, Pandas, Tensorflow, Keras, AutoML), SQL.
-- 🗄️ Databases: OpenSearch, PostgresSQL, BigQuery SQL
-- 📊 Data Visualization: Matplotlib, seaborn, ggplot2, Plotly
-- 📚 Modeling: linear regression, Logistic regression, Decision trees, SVM, Random Forest, XGBoost,
-               CNN, RNN, LSTM, Autoencoder, Transformer, Attention, LLMA2
+- 🗄️ Databases: OpenSearch, PostgreSQL, BigQuery SQL
+- 📊 Data Visualization: DataStudio, OpenSearch Dashboard, matplotlib, seaborn, ggplot2, Plotly
+- 📚 ML/DL Models/API, Vector DB and libraries: linear regression, Logistic regression, Decision trees, SVM, Random Forest, XGBoost,
+               CNN, RNN, LSTM, Autoencoder, Transformer, Attention, PaLM2, LLMA2, OpenAI, Gemini Pro, llamindex, Pinecone, Chromadb, Langchain.
 
 """
 )
