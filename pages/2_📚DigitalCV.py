@@ -80,7 +80,7 @@ st.write('\n')
 st.subheader("Experience & Qualifications")
 st.write(
     """
-- ✔️ Years of experience in extracting actionable insights from structured and Unstructured Data.
+- ✔️ 3+ years of experience in extracting actionable insights from structured and Unstructured Data.
 - ✔️ Good understanding of business/financial or any Data Science Projects (User_Athentication, Database Integration, KPI design, Real-Time Interactive Dashboard).
 - ✔️ Strong hands-on experience in Machine Learning/Deep Learning Projects CV(Objet Detection, Segmentation, Classification, Tracking) NLP(Sentiment Analysis, Translation, Chatbot), Time Series Forecasting, and Anomaly Detections(Stock Prices, Transactional Data) Architecture Development and Deployment on the Cloud.
 - ✔️ Excellent team player and displays a strong sense of initiative in accomplishing tasks.
