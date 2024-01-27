@@ -96,7 +96,7 @@ st.write(
 - 👩‍💻 Programming: Python (Scikit-learn, Pandas, Tensorflow, Keras, AutoML), SQL.
 - 🗄️ Databases: OpenSearch, PostgresSQL, BigQuery SQL
 - 📊 Data Visualization: Matplotlib, seaborn, ggplot2, Plotly
-- 📚 Modeling: ML-Logistic regression, linear regression, decision trees, SVM, Random Forest, XGBoost,
+- 📚 Modeling: linear regression, Logistic regression, Decision trees, SVM, Random Forest, XGBoost,
                CNN, RNN, LSTM, Autoencoder, Transformer, Attention, LLMA2
 
 """
