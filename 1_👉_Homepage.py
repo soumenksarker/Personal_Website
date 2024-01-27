@@ -53,17 +53,17 @@ if selected=="Home":
             st.header("What I will do ...")
             st.write("##")
             st.write("""
-        >Data Scraping, Preprocessing, Analysis & Visualization with several data sources(i.e. web scraping, hosted db services) and data formats(images, text, json e.t.c)
+        >Data Scraping, Preprocessing, Analysis & Visualization with structured and unstructured data formats(xls, images, text, json)
             
-            Database & API Integration: FastAPI, PostgresSQL, SQLAlchemy, Alembic, OpenSearch, BigQuery.
-            Tools & libraries: Selenium, numpy, pandas, seaborn, Plotly.
+            Database Services:  OpenSearch, BigQuery, PostgreSQL, SQLAlchemy.
+            Tools & libraries: Selenium, OpenSearch Dashboard, DataStudio, numpy, pandas, seaborn, Plotly, Python.
         >Apply probability and statistical techniques to derive useful insights from your data.
             
             Tools & libraries: scipy, statsmodels
         
         >Creating Pipeline(Processing, Modeling, Training, Evaluation) with the state of the art of Machine Learning and Deep Learning techniques.
             
-            Tools & libraries: scikit-learn, Tensorflow, keras, torch, BigQueryML, Vertex AI, AutoML, Transformers(T5, BERT, LLMA-2, GPT-3.5), Generative Ai Studio.
+            Tools & libraries: scikit-learn, Tensorflow, Keras, torch, BigQueryML, Vertex AI, AutoML, Transformers(T5, BERT, LLMA-2, GPT-3.5), Generative Ai Studio.
     
         > API integration, Application Design & Development, Evaluation, CICD Deployment
             
