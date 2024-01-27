@@ -94,8 +94,8 @@ st.write('\n')
 st.subheader("Hard Skills")
 st.write(
     """
-- 👩‍💻 Programming: Python (Scikit-learn, Pandas, Tensorflow, Keras, AutoML), SQL.
-- 🗄️ Databases: OpenSearch, PostgreSQL, BigQuery SQL
+- 👩‍💻 Programming: Python, SQL.
+- 🗄️ Databases: OpenSearch, PostgreSQL, BigQuery.
 - 📊 Data Visualization: DataStudio, OpenSearch Dashboard, matplotlib, seaborn, Plotly
 - 📚 ML/DL Models/API, Vector DB and libraries: linear regression, Logistic regression, Decision trees, SVM, Random Forest, XGBoost,
                CNN, RNN, LSTM, Autoencoder, Transformer, Attention, PaLM2, LLMA2, OpenAI, Gemini Pro, llamindex, Pinecone, Chromadb, Langchain.
