@@ -28,7 +28,7 @@ PROJECTS = {
 "🏆 Real Time web scraper using Selenium, Sqlalchemy, Docker-compose, PostgresSQL and Opensearch Integration": "https://github.com/soumenksarker/RealtimeScraperOpenSearchPostgresIntegration",
 "🏆 Real-time Credit Card fraud detection using Vertex AI, AutoML, BigQuery, Pub/Sub, Dataflow on GCP.":"https://github.com/soumenksarker/fraudfinder",
 "🏆 Unstructured data analytics with BigQuery ML and Vertex AI pre-trained models. Vision API to extract texts from movie posters, Translation API to translate into English, and NLP API to sentiment analysis of movie reviews.":"https://colab.research.google.com/drive/1dapJBwSqyk0OkJi-6pH1Vl-6KKFwWPyl?usp=sharing",
-"🏆 Building a Retail Demand Forecasting Model using BQML". "https://drive.google.com/file/d/1sYq5lMC3-FPNNUuuIUovh7Xld6QAuBrx/view?usp=sharing",
+"🏆 Building a Retail Demand Forecasting Model using BQML": "https://drive.google.com/file/d/1sYq5lMC3-FPNNUuuIUovh7Xld6QAuBrx/view?usp=sharing",
 "🏆 Built and deployed a time series Anomaly Detection Tool(analysis, train, visualize and save the model) using pycaret.":"https://adtool.streamlit.app/",
 "🏆 End to End Data Ingestion, Transformation, Feature Engineering and Model training, Evaluation with Dagshub, MLflow, and CICD Deployment using GitHub Action on AWS EC2 instance.":"https://dagshub.com/soumenksarker/End-to-end-Machine-Learning-Project-with-MLflow",
 "🏆 Document AI to train a Custom Document Extractor processor. ": "https://codelabs.developers.google.com/codelabs/docai-custom#12",
