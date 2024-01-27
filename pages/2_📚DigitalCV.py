@@ -97,8 +97,8 @@ st.write(
 - 👩‍💻 Programming: Python, SQL.
 - 🗄️ Databases: OpenSearch, PostgreSQL, BigQuery.
 - 📊 Data Visualization: DataStudio, OpenSearch Dashboard, matplotlib, seaborn, Plotly
-- 📚 ML/DL Models/API, Vector DB and libraries: linear regression, Logistic regression, Decision trees, SVM, Random Forest, XGBoost,
-               CNN, RNN, LSTM, Autoencoder, Transformer, Attention, PaLM2, LLMA2, OpenAI, Gemini Pro, llamindex, Pinecone, Chromadb, Langchain.
+- 📚 ML/DL Models, APIs, Vector DB, and libraries: linear regression, Logistic regression, Decision trees, SVM, Random Forest, XGBoost,
+               CNN, RNN, LSTM, Autoencoder, Transformers(T5, BERT, LLMA-2, GPT-3.5), Attention. PaLM2, OpenAI, Gemini Pro. Pinecone, Chromadb, Langchain, llamaindex.
 
 """
 )
