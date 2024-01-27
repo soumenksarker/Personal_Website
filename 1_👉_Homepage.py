@@ -53,7 +53,7 @@ if selected=="Home":
             st.header("What I will do ...")
             st.write("##")
             st.write("""
-        >Data Sraping, Preprocessing, Analysis & Visualization with several data sources(i.e. web scraping, hosted db services) and data formats(images, text, json e.t.c)
+        >Data Scraping, Preprocessing, Analysis & Visualization with several data sources(i.e. web scraping, hosted db services) and data formats(images, text, json e.t.c)
             
             Database & API Integration: FastAPI, PostgresSQL, SQLAlchemy, Alembic, OpenSearch, BigQuery.
             Tools & libraries: Selenium, numpy, pandas, seaborn, Plotly.
