@@ -30,7 +30,7 @@ PROJECTS = {
 "🏆 Unstructured data analytics with BigQuery ML and Vertex AI pre-trained models. Vision API to extract texts from movie posters, Translation API to translate into English, and NLP API to sentiment analysis of movie reviews.":"https://colab.research.google.com/drive/1dapJBwSqyk0OkJi-6pH1Vl-6KKFwWPyl?usp=sharing",
 "🏆 Building a Retail Demand Forecasting Model with Dashboard in BigQueryML and DataStudio.": "https://drive.google.com/file/d/1sYq5lMC3-FPNNUuuIUovh7Xld6QAuBrx/view?usp=sharing",
 "🏆 Text summarization, from images/pdfs using t5-base and mt5-multilingual csebuetnlp model for Bangla and English languages.": "https://huggingface.co/spaces/Soumen/Text-Summarization-and-NLP-tasks",
-"🏆 Expert system/conversate beyond your data(healthcare, finance, law, literature e.t.c) using PaLM2 API, Pincone, Langchain":"https://chatwithyourownexpertsystem.streamlit.app/",
+"🏆 Conversate beyond your data(Upload multiple pdfs and paste links) using PaLM2 API, Pincone, Langchain":"https://chatwithyourownexpertsystem.streamlit.app/",
 "🏆 Document AI to train a Custom Document Extractor processor. ": "https://codelabs.developers.google.com/codelabs/docai-custom#12",
 "🏆 Built and deployed a time series Anomaly Detection Tool(analysis, train, visualize and save the model) using pycaret.":"https://adtool.streamlit.app/",
 "🏆 Built a personal website.":"https://soumen-sarker-personal-website.streamlit.app/DigitalCV",
