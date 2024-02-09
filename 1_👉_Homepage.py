@@ -55,8 +55,8 @@ if selected=="Home":
             st.write("""
         >Data Scraping, Preprocessing, Analysis & Visualization with structured and unstructured data formats(xls, images, text, json)
             
-            Database Services:  OpenSearch, BigQuery, PostgreSQL, SQLAlchemy.
-            Tools & libraries: Selenium, OpenSearch Dashboard, DataStudio, numpy, pandas, seaborn, Plotly, Python.
+            Database Services:  OpenSearch, BigQuery, PostgreSQL, Dynamodb.
+            Tools & libraries: Selenium, Superset, DataStudio, numpy, pandas, seaborn, Plotly, Python.
         >Apply probability and statistical techniques to derive useful insights from your data.
             
             Tools & libraries: scipy, statsmodels
