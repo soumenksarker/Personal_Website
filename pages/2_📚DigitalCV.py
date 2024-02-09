@@ -35,7 +35,7 @@ PROJECTS = {
 "🏆 Built and deployed a time series Anomaly Detection Tool(analysis, train, visualize and save the model) using pycaret.":"https://adtool.streamlit.app/",
 "🏆 Built a personal website.":"https://soumen-sarker-personal-website.streamlit.app/DigitalCV",
 "🏆 End to End Data Ingestion, Transformation, Feature Engineering and Model training, Evaluation with Dagshub, MLflow, and CICD Deployment using GitHub Action on AWS EC2 instance.":"https://dagshub.com/soumenksarker/End-to-end-Machine-Learning-Project-with-MLflow",
-"🏆 NLP literature review: A Sentiment Classification model by comparing naive Bayes, DNN, RNN, and LSTM classification models. Ended with an advanced architecture like Transformer with attention mechanism and built an Automatic Text Summarizer.": "https://github.com/soumenksarker/NLP-Specialization",  
+"🏆 NLP basic to advance: A Sentiment Classification model by comparing naive Bayes, DNN, RNN, and LSTM classification models. Ended with an advanced architecture like Transformer with attention mechanism and built an Automatic Text Summarizer.": "https://github.com/soumenksarker/NLP-Specialization",  
 "🏆 Image Captioning using huggingface API and streamlit.":"https://huggingface.co/spaces/Soumen/image_to_text",
 "🏆 Emotion detection application":"https://soumenksarker-emotion-recognition-app-770rmy.streamlitapp.com/",
 "🏆 Detects and classifies objects, faces, smiles, and eyes, do enhance and filters to add effect.": "https://huggingface.co/spaces/Soumen/transform_image",
