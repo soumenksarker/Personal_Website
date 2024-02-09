@@ -95,8 +95,8 @@ st.subheader("Hard Skills")
 st.write(
     """
 - 👩‍💻 Programming: Python, SQL.
-- 🗄️ Databases: OpenSearch, PostgreSQL, BigQuery.
-- 📊 Data Visualization: DataStudio, OpenSearch Dashboard, matplotlib, seaborn, Plotly
+- 🗄️ Databases: OpenSearch, PostgreSQL, BigQuery, Dynamodb.
+- 📊 Data Visualization: DataStudio, Superset, OpenSearch Dashboard, matplotlib, seaborn, Plotly
 - 📚 ML/DL Models, APIs, Vector DB, and libraries: linear regression, Logistic regression, Decision trees, SVM, Random Forest, XGBoost,
                CNN, RNN, LSTM, Autoencoder, Transformers(T5, BERT, LLMA-2, GPT-3.5), Attention. PaLM2, OpenAI, Gemini Pro. Pinecone, Chromadb, llamaindex, Langchain.
 
