@@ -22,7 +22,7 @@ SOCIAL_MEDIA = {
     "LinkedIn": "https://www.linkedin.com/in/soumen-sarker-61302216b/",
     "GitHub": "https://github.com/soumenksarker",
     "Kaggle": "https://www.kaggle.com/soumenksarker",
-    "Codeforces": "https://codeforces.com/profile/Soumen_Sarkar",
+    "Codeforces": "https://codeforces.com/contests/with/Soumen_Sarkar",
 }
 PROJECTS = {
 "🏆 Real-Time web scraping and insertion on Opensearch, Dynamodb, PostgreSQL and Superset integration for Dashboard.": "https://github.com/soumenksarker/RealtimeScraperOpenSearchPostgresIntegration",
