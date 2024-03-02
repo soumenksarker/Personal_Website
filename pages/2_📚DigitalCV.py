@@ -26,7 +26,7 @@ SOCIAL_MEDIA = {
 }
 PROJECTS = {
 "🏆 Real-Time web scraping and insertion on Opensearch, Dynamodb, PostgreSQL and Superset integration for Dashboard.": "https://github.com/soumenksarker/RealtimeScraperOpenSearchPostgresIntegration",
-"🏆 Question and answer system base on your csv, xlsx or json data using natural language to Analysis and Visualize for pandas,  matplotlib,  seaborn and plolty variations, integrated with first project using postgressql uri.":"https://huggingface.co/spaces/Soumen/QAsystemforcsvjsonxlsx",
+"🏆 Question and answer system to Analysis and Visualize base on your csv, xlsx or json data for pandas,  matplotlib, seaborn and plolty variations, integrated with first project using postgressql uri.":"https://huggingface.co/spaces/Soumen/QAsystemforcsvjsonxlsx",
 "🏆 Real-time Credit Card fraud detection using Vertex AI, AutoML, BigQuery, Pub/Sub, Feature Store and Dataflow on GCP.":"https://github.com/soumenksarker/fraudfinder",
 "🏆 Unstructured data analytics with BigQuery ML and Vertex AI pre-trained models. Vision API to extract texts from movie posters, Translation API to translate into English, and NLP API to sentiment analysis of movie reviews.":"https://colab.research.google.com/drive/1dapJBwSqyk0OkJi-6pH1Vl-6KKFwWPyl?usp=sharing",
 "🏆 Building a Retail Demand Forecasting Model with Dashboard in BigQueryML and DataStudio.": "https://drive.google.com/file/d/1sYq5lMC3-FPNNUuuIUovh7Xld6QAuBrx/view?usp=sharing",
