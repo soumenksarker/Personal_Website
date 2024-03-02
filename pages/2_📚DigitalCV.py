@@ -15,7 +15,7 @@ profile_pic = current_dir / "assets" / "FB_IMG_1695847498519-removebg-preview.jp
 # --- GENERAL SETTINGS ---
 NAME = "SOUMEN SARKER"
 DESCRIPTION = """
-Kaggle 1x Expert, ML/DL Specialist.
+Kaggle Expert, ML/DL Specialist.
 """
 EMAIL = "sks0007771@gmail.com"
 SOCIAL_MEDIA = {
