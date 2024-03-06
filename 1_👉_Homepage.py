@@ -8,7 +8,7 @@ from streamlit_lottie import st_lottie
 from PIL import Image
 
 # Find more emojis here: https://www.webfx.com/tools/emoji-cheat-sheet/
-st.set_page_config(page_title="My Website", page_icon=":tada:", layout="wide")
+st.set_page_config(page_title="My Website", page_icon=":tada:", initial_sidebar_state ="expanded", layout="wide")
 st.title("Home Page")
 #st.sidebar.success("Please navigate from above ...")
 selected=option_menu(menu_title=None,
