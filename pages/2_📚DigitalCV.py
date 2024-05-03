@@ -25,8 +25,11 @@ SOCIAL_MEDIA = {
     "Codeforces": "https://codeforces.com/contests/with/Soumen_Sarkar",
 }
 PROJECTS = {
+"🏆 Write several services and microservices in Travelai's ETL pipeline by reading from api's, data extraction from json files, transform and load to store into postgres database's new column.
+    Tools/Tech: Cron, Python, SQLAlchemy ORM(INSERT, BULK UPDATE, e.t.c), OOP, RegEX, Postgres, S3": "",
+"🏆 Write SQL query in Apache Superset's SQL lab to grab analytics from connected database, execute as a cron to get several combinational time series csv chart data, mail into server using superset cron alert, read from mail server, match/analytics with api data and notify in dedicated team's channel.":"",
 "🏆 Real-Time web scraping and visualization dashboard.": "https://github.com/soumenksarker/RealtimeScraperOpenSearchPostgresIntegration",
-"🏆 Real-time Q&A system to Analysis and Visualize on scraped data(integrated with first project).":"https://huggingface.co/spaces/Soumen/QAsystemforcsvjsonxlsx",
+"🏆 Real-time Q&A system to Analysis and Visualize on scraped data(integrated with first project).":"https://huggingface.co/spaces/Soumen/QA_to_AnalysisVisualize_on_your_data_and_database",
 "🏆 Real-time Credit Card fraud detection using Vertex AI, AutoML, BigQuery, Pub/Sub, Feature Store and Dataflow on GCP.":"https://github.com/soumenksarker/fraudfinder",
 "🏆 Unstructured data analytics with BigQuery ML and Vertex AI pre-trained models. Vision API to extract texts from movie posters, Translation API to translate into English, and NLP API to sentiment analysis of movie reviews.":"https://colab.research.google.com/drive/1dapJBwSqyk0OkJi-6pH1Vl-6KKFwWPyl?usp=sharing",
 "🏆 Building a Retail Demand Forecasting Model with Dashboard in BigQueryML and DataStudio.": "https://drive.google.com/file/d/1sYq5lMC3-FPNNUuuIUovh7Xld6QAuBrx/view?usp=sharing",
