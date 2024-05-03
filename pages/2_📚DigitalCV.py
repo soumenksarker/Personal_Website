@@ -9,7 +9,7 @@ st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = current_dir / "styles" / "main.css"
 resume_file = current_dir / "assets" / "CV.pdf"
-profile_pic = current_dir / "assets" / "4486c40b-8e20-4018-ae10-f147ebca72ad-removebg-preview.jpg"
+profile_pic = current_dir / "assets" / "1714307863738 (1)-removebg-preview.jpg"
 
 
 # --- GENERAL SETTINGS ---
