@@ -26,7 +26,7 @@ SOCIAL_MEDIA = {
 }
 PROJECTS = {
 "🏆 Written several services and microservices in Travelai's ETL pipeline by reading from api's, data extraction from json files, transform and load to store into postgres database's table. Tools/Tech: Cron, Python, SQLAlchemy ORM(INSERT, BULK UPDATE, e.t.c), OOP, RegEX, Postgres, S3.": "",
-"🏆 Write SQL query in Apache Superset's SQL lab to grab analytics from connected database, execute as a cron to get several combinational time series csv chart data, mail into server using superset cron alert, write flask services to read data from mail server, match/analytics with api data and notify in dedicated team's channel.":"",
+"🏆 Write SQL query in Apache Superset's SQL lab to grab analytics from connected database, execute as a cron to get several combinational time series data to mail into dedicated server, write flask services to read data from mail server, match/analytics with api data and notify in dedicated team's channel.":"",
 "🏆 Write unit test using pytest, unittest for services in superset/web automation project written on flask.":"",
 "🏆 Real-Time web scraping and visualization dashboard.": "https://github.com/soumenksarker/RealtimeScraperOpenSearchPostgresIntegration",
 "🏆 Real-time Q&A system to Analysis and Visualize on scraped data(integrated with first project).":"https://huggingface.co/spaces/Soumen/QA_to_AnalysisVisualize_on_your_data_and_database",
