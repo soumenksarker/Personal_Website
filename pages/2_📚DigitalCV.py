@@ -22,6 +22,7 @@ SOCIAL_MEDIA = {
     "LinkedIn": "https://www.linkedin.com/in/soumen-sarker-61302216b/",
     "GitHub": "https://github.com/soumenksarker",
     "Kaggle": "https://www.kaggle.com/soumenksarker",
+    "Hugging Face": "https://huggingface.co/Soumen",
     "Codeforces": "https://codeforces.com/contests/with/Soumen_Sarkar",
 }
 PROJECTS = {
