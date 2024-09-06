@@ -38,7 +38,7 @@ if selected=="Home":
     # ---- HEADER SECTION ----
     with st.container():
         st.subheader("Hi, My name is Soumen.")
-        st.title("Problem Solver, Data Science, Machine Learning, Deep Learning Practitioner From Bangladesh.")
+        st.title("Problem Solver, Data Science, Machine Learning, Deep Learning and IoT Specialist.")
         st.write("Passionate about finding ways to do Data Science/ML/DL projects using Python, SQL."
                 """
                 Regarding Natural Language Processing, Business/Financial Data 
