@@ -23,7 +23,7 @@ SOCIAL_MEDIA = {
     "GitHub": "https://github.com/soumenksarker",
     "Kaggle": "https://www.kaggle.com/soumenksarker",
     "Hugging Face": "https://huggingface.co/Soumen",
-    "Codeforces": "https://codeforces.com/contests/with/Soumen1111",
+    "Codeforces": "https://codeforces.com/contests",
 }
 PROJECTS = {
 "🏆 Written several services and microservices in ETL pipeline by reading from api's, data extraction from json files, transform and load to store into postgres database's table. Tools/Tech: Cron, Python, SQLAlchemy ORM(INSERT, BULK UPDATE, e.t.c), OOP, RegEX, Postgres, S3.": "",
